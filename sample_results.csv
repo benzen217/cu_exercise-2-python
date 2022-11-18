@@ -1,0 +1,6 @@
+enrollment_id,term_id,course_title,class_id,grade,student_id,first_name,last_name,credits_earned,date_of_birth,student_employee,gpa,age,course_subject,course_number,course_section,academic_plans
+69066523,2221,General Biology 1,EBIO-1-1210-11,71.45,311192,Bibiana,Espino,134,4/15/00,0,2.72,22,EBIO,1210,11,Journalism - Undetermined
+62637135,2221,General Chemistry 1,CHEM-1-1113-21,72.66,384628,Michail,Enzley,112,3/14/01,0,3.78,21,CHEM,1113,21,Neuroscience;Biology
+77033020,2221,General Biology 1,EBIO-1-1210-10,91.43,384628,Michail,Enzley,112,3/14/01,0,3.78,21,EBIO,1210,10,Neuroscience;Biology
+13572167,2221,General Biology 2,EBIO-1-1220-3,94.16,508073,Karil,Birkmyr,126,2/27/02,0,2.9,20,EBIO,1220,3,"Information Systems, Conc Degr"
+78539481,2221,General Biology 1,EBIO-1-1210-10,65.29,546841,Quyen,Wattana,97,9/16/99,1,4,23,EBIO,1210,10,Economics

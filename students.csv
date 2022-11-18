@@ -1,0 +1,801 @@
+student_id,term_id,first_name,last_name,credits_earned,date_of_birth,student_employee,gpa,major
+862816,2221,Madalena,Rennebach,86,1/23/04,0,3.9,Musical Theatre
+117220,2221,Daniele,Armsden,115,7/7/01,0,4,Computer Science
+783232,2221,Val,Duprey,0,4/17/01,0,2.8,Pre-Journalism & Mass Comm
+968702,2221,Sung-Hoon,Chen,140,1/15/00,0,2.99,Information Science
+280858,2221,Standford,Hakey,0,5/17/01,0,3.26,"Classics, Concurrent Degree"
+152096,2221,Deepali,Gupta,106,2/17/98,1,3.44,Computer Science & Business
+152096,2221,Deepali,Gupta,106,2/17/98,1,3.44,Management
+962362,2221,Kate,Schoenrock,73,11/18/03,0,3.02,French
+309952,2221,Kiyoshi,Iwai,80,1/25/98,0,4,Elec Engr & Computer Sci
+220505,2221,Marcello,Hold,87,11/6/01,0,2.82,Music
+220505,2221,Marcello,Hold,87,11/6/01,0,2.82,Pre-Economics
+747829,2221,Emma,Sans,1,2/2/02,0,3.17,Broadcast News
+689852,2221,Jayanthi,Mhasalkar,127,1/8/98,0,3.55,Transport/Distribution Mgt
+765173,2221,Shelba,Tomik,63,1/26/99,0,3.08,Italian
+354804,2221,Redd,Lockney,44,9/14/98,0,4,Minerals Land Management
+664001,2221,Nahum,Woodyer,58,2/10/04,0,2.78,Astronomy
+171715,2221,Delila,Wonter,132,12/31/01,0,3.26,"Mechanical Engr, Concur Degree"
+935021,2221,Ertha,Locker,49,12/23/00,0,2.6,Pharmacy
+701106,2221,Sydney,Trace,59,2/4/02,0,2.43,Pharmacy
+791544,2221,Haleigh,Kiledal,127,3/29/01,1,3.77,"Biological Sci-EPO,Concur Deg"
+172987,2221,Jessi,Arent,83,3/18/99,1,2.27,"Mathematics, Concurrent Degree"
+187306,2221,Towney,Van den Broek,40,8/12/02,0,3.9,Elec Engr & Computer Sci
+187306,2221,Towney,Van den Broek,40,8/12/02,0,3.9,Mathematics
+626957,2221,Jacinda,Lamport,27,4/7/98,1,4,Journalism - Open Option
+676274,2221,Linnet,Pirson,27,5/17/98,0,3.05,Communication
+365031,2221,Bette,Smoth,89,12/2/02,0,3.95,Environmental Prod of Design
+330311,2221,Quintana,Marginson,117,10/27/01,0,4,Entreparneurship/Small Bus Mgt
+423138,2221,Valdemar,Fetherston,88,12/1/98,0,2.22,Minerals Land Management
+273498,2221,Krystalle,Blaschek,74,4/17/04,0,3.46,Biochemistry
+593993,2221,Fina,Squires,41,5/9/04,0,3.42,"Aerospace Engr Sci, Concur Deg"
+486876,2221,Aymer,Collumbell,84,2/9/02,0,2.94,Chinese
+676722,2221,Camile,Wilne,88,8/8/02,0,2.54,Biomedical Engineering
+827470,2221,Micheline,Ansty,31,5/21/00,0,4,"German Studies, Concur Degr"
+178820,2221,Glenine,Rockell,18,8/31/03,0,2.2,International Business
+351029,2221,Coleman,Poizer,127,12/30/01,0,3.42,Sociology
+436095,2221,Cathe,Tidcomb,107,8/18/00,1,2.38,"Linguistics, Concurrent Degree"
+780713,2221,Gerhard,Figliovanni,56,1/25/99,0,4,Office Administration
+846369,2221,Osbert,Fearnehough,7,12/26/98,0,2.38,Integrative Physiology-Con Deg
+455369,2221,Benny,Rollett,82,1/5/98,0,2.21,Pharmacy
+267447,2221,Ferris,Vedenichev,76,4/15/02,0,3.61,Landscape Architecture
+333282,2221,Carolynn,Habergham,34,8/3/01,1,4,Design Studies
+111967,2221,Whitby,Cattlow,142,12/24/03,1,2.88,Engineering - Undetermined
+591204,2221,Nonna,Ather,33,3/4/01,1,3.27,Jour Mass Comm - Open Option
+524758,2221,Maire,Terbeck,31,8/8/99,0,3.19,"Electrical Engr, Concur Degree"
+796743,2221,Greer,Adamthwaite,77,2/15/03,0,3.32,Religious Studies
+454822,2221,Ado,Collen,22,2/14/01,0,4,Eng Physics/Physics Concur Deg
+965494,2221,Page,Grinter,29,7/27/98,1,2.52,Humanities
+903604,2221,Gerianne,McKiddin,56,5/16/03,0,3.86,English
+308656,2221,Lucien,FitzGibbon,30,2/2/01,0,4,Mathematics
+494043,2221,Gladi,Chaplyn,47,12/1/01,0,3.83,"Architectural Engr, C/Degree"
+708117,2221,Washington,Grimsley,89,3/27/99,0,2.8,"Linguistics, Concurrent Degree"
+809492,2221,Niven,Duer,123,10/9/03,0,3.12,Philosophy
+628317,2221,Scarlett,McGilmartin,41,2/6/98,0,4,Computer Science & Business
+691241,2221,Bertina,Mayhou,90,2/5/98,0,3.77,"Computer Sci, Concurrent Degr"
+923255,2221,Emmye,Rois,89,9/30/99,1,2.21,Teacher Education Elementary
+557470,2221,Normie,Elphee,131,8/26/01,0,3.66,"Biological Sci-EPO,Concur Deg"
+104528,2221,Gwenny,D'Elia,2,12/31/00,1,3.97,Biological Sciences-EPO
+356063,2221,Aurelea,Liebrecht,88,4/24/00,0,4,"Linguistics, Concurrent Degree"
+271306,2221,Birdie,Jurkiewicz,140,1/31/99,0,4,Accounting
+133521,2221,Rishi,Patil,105,9/14/01,1,4,"Aerospace Engr Sci, Concur Deg"
+986002,2221,Jaimie,Kemmish,122,12/1/00,1,4,Political Science
+773668,2221,Malorie,Espinas,90,10/21/03,0,3.11,Woodwind Performance
+746677,2221,Arnaldo,Goodlip,35,2/13/00,0,2.69,"Aerospace Engr Sci, Concur Deg"
+224429,2221,Vivian,Perrin,5,10/9/01,0,2.27,Women and Gender Studies
+997729,2221,Ben,Passmore,10,8/10/99,0,4,Latin American Studies
+717039,2221,Roseann,Lidden,30,5/13/98,0,3.56,Environmental Design & Bus
+809678,2221,Parsifal,Macquire,88,9/21/02,0,2.18,"Elec & Comp Engr, Concurr Deg"
+769593,2221,Hinze,Lamperti,18,5/14/00,1,4,Chemical & Biological Engin
+867623,2221,Marga,Popham,81,4/21/98,0,2.6,Mechanical Engineering
+768882,2221,Glenn,Petrovic,122,3/16/04,0,3.48,Humanities Concurr Deg
+128467,2221,Seo-Hyeon,Nagasawa,20,9/7/99,0,2.16,Mechanical Engineering
+631631,2221,Abbie,Joscelin,118,11/11/01,0,3.87,Composition
+208113,2221,Rubin,Ashplant,104,9/28/03,0,2.75,Information Science
+948790,2221,Madonna,Butter,120,3/30/00,0,3.35,Engineering Phys & Business
+181129,2221,Margaretta,Beddoe,22,7/16/01,0,4,Individually Structured
+539289,2221,Antonietta,Edden,141,2/26/03,0,2.57,Music - Undetermined
+328197,2221,Giorgio,Baskeyfied,53,3/20/03,0,3.37,Jewish Studies
+163232,2221,Reinhard,Niven,17,11/14/99,0,4,Chemistry
+900033,2221,Felizio,Abramzon,102,6/10/02,1,4,"Electrical Engr, Concur Degree"
+314564,2221,Brandea,Riguard,63,8/22/00,0,3.18,Elementary Education
+195880,2221,Kavi,Choudhary,135,3/26/04,0,3.37,Journalism - Open Option
+265354,2221,Dorotea,Macak,108,10/18/03,0,2.77,Statistics and Data Science
+563922,2221,Mellicent,Cussons,85,10/6/99,0,3.87,"Speech,Lang,Hearing Sciences"
+583549,2221,Tu,Deng,23,3/27/00,0,4,Management
+442460,2221,Ashok,Choi,58,4/14/01,0,3.97,Theatre
+849568,2221,Annice,Essex,130,10/15/98,1,4,String Performance
+528084,2221,Katinka,Dimanche,111,1/1/02,0,3.36,Musicology
+981668,2221,Richie,Kingshott,95,7/24/02,0,2.14,Ecology & Evolutionary Biology
+500179,2221,Buckie,Rheam,127,2/3/02,0,4,"Systems, Concurrent Degree"
+562830,2221,Kenton,Earney,84,4/1/03,0,3.84,Media Production
+740772,2221,Sheila,Inmett,107,4/9/01,0,2.62,Envir/Civ Engineering Conc Deg
+926926,2221,Airi,Jung,35,3/17/98,0,2.62,Ecol & Evolution Bio-Con Deg
+922814,2221,Brice,Lukovic,90,3/12/01,0,3.61,Chinese - Concurrent Degree
+786812,2221,Gusty,Joselovitch,109,9/30/02,0,4,Information Systems
+308016,2221,Ashlan,Fer,80,10/13/98,0,3.71,Computer Science Applications
+790171,2221,Philis,Morriss,41,1/8/03,0,4,Kinesiology
+726863,2221,Clementine,Domb,74,2/4/02,0,3.8,Linguistics
+748364,2221,Merridie,Burnhard,98,4/18/98,0,3.44,Chinese - Concurrent Degree
+513225,2221,Lily,Savill,49,7/20/01,0,2.7,Civil Engineering
+800910,2221,Aarika,Frossell,85,12/5/03,0,4,Fine Arts - Art History
+923457,2221,Gherardo,Bier,73,6/20/02,1,3.58,Ethnic Studies
+545056,2221,Carlen,Milch,59,4/3/98,0,1.77,Elementary Education
+729552,2221,Cherish,Aitcheson,139,12/3/03,0,4,"Economics, Concurrent Degree"
+545860,2221,Rochell,Meeron,64,11/18/03,1,2.43,Media Studies
+905143,2221,Gisela,Malsher,140,7/4/00,1,3.46,Provisional Admit
+368367,2221,Michel,Scallon,47,2/22/02,0,3.33,Chemical & Biological Engr
+406399,2221,Clarice,Lasslett,7,1/9/99,0,2.17,Electrical Engineering & Mus
+313891,2221,Darby,Allard,117,4/30/04,0,4,Business Analytics
+766475,2221,Kip,Lealle,74,1/25/03,0,3.63,Chemistry
+177478,2221,Weider,Lyster,18,9/11/03,0,4,English
+618885,2221,Serge,Fermin,123,1/20/04,0,4,Chem & Biol Engr Concur Deg
+809812,2221,Ray,Ruxton,53,10/6/02,0,4,Computer Science & Business
+698605,2221,Dominique,Kyndred,95,2/6/99,1,3.83,Mechanical Engineering & Bus
+132005,2221,Pate,Haswall,55,1/1/01,1,3.15,Elec Engr & Computer Sci
+789476,2221,Carlyle,Prujean,119,9/24/98,0,2.41,Public Relations & Business
+130613,2221,Pauly,Beaston,23,12/18/00,1,3.59,Architect Engr & Bus
+184669,2221,Evaleen,Venn,77,8/1/98,0,2.79,Music Education
+610331,2221,Portie,Le Grys,117,9/1/00,1,3.75,Organization Management
+672546,2221,Toma,Planks,133,5/2/98,0,2.99,Open Option
+287254,2221,Caterina,Bullas,137,10/2/00,0,3.92,Religious Studies
+816337,2221,Rafaellle,Audas,84,11/12/00,0,4,Fine Arts - Art History
+814661,2221,Hui,Gao,85,2/20/01,0,2.46,Public Agency Administration
+233769,2221,Vivienne,Tittershill,85,9/29/99,0,1.39,Applied Mathematics
+295972,2221,Atlanta,Fretter,138,5/5/00,0,2.61,Music & Business
+930404,2221,Tally,Grunson,15,11/11/03,0,4,Teacher Education Elementary
+437005,2221,Olwen,Beveredge,135,9/14/99,0,2.15,Religious Studies
+129095,2221,Glen,Sollom,13,11/30/98,0,4,General Engineering
+197853,2221,Odelle,Meni,136,6/14/99,0,4,English
+741056,2221,Kaylil,Fozzard,116,10/14/99,0,4,Piano Performance
+821625,2221,Ellswerth,Bromidge,117,10/24/02,0,4,Architectural Engineering
+770739,2221,Theo,Comben,118,10/24/01,0,2.93,Interdisciplinary Studies
+525324,2221,Dru,McQuilliam,83,10/15/00,0,1.38,"German Studies, Concur Degr"
+358840,2221,Nannie,Kenaway,66,5/21/98,0,4,Transport/Distribution Mgt
+650800,2221,Walton,Abreheart,7,2/12/01,0,4,"Applied Math, Concurr Degree"
+394816,2221,Anabel,Coraini,35,6/16/99,1,2.28,Music
+286256,2221,Erma,Brownstein,16,8/19/01,0,4,Biological Sciences-EPO
+828109,2221,Lin,O'Donegan,82,11/8/99,0,3.6,Transport/Distribution Mgt
+877525,2221,Portia,McCaughey,111,12/13/03,0,2.35,"Information Systems, Conc Degr"
+508073,2221,Karil,Birkmyr,126,2/27/02,0,2.9,"Information Systems, Conc Degr"
+861092,2221,Jigjit,Mishra,18,2/17/98,1,2.67,Brass/Percussion Performance
+531287,2221,Hugh,Kunze,55,5/12/03,1,2,African & Middle East Studies
+742006,2221,Virgil,McPaik,105,5/16/03,0,1.95,Media Studies
+597355,2221,Yin,Pham,107,3/7/03,0,3.04,News - Editorial & Business
+341519,2221,Gavra,Hopkyns,113,3/15/03,0,4,African & Middle East Studies
+672547,2221,Armin,Galle,9,2/21/00,0,2.77,Communication
+507062,2221,Juditha,Callington,131,3/28/02,0,1.28,Elec Engr & Computer Sci
+352952,2221,Liv,Huntingdon,62,5/9/99,0,4,Biochemistry
+746170,2221,Kleon,Narramore,53,4/28/01,1,4,Systems
+884147,2221,Lory,Beeres,70,3/4/04,1,4,Public Relations & Business
+419302,2221,Austin,Lomb,83,7/25/00,0,3.65,Classical Antiquity
+672279,2221,Belinda,Tyas,88,6/20/99,0,4,Mathematics
+912666,2221,Tiffie,Malimoe,98,8/3/02,0,3.1,Jewish Studies
+517050,2221,Katy,Avory,87,12/26/03,0,4,Engineering Plus
+396506,2221,Aristotle,McCerery,93,2/1/98,1,2.18,Mechanical Engineering & Bus
+673310,2221,Connor,Stoll,63,5/20/02,0,4,Biology
+340243,2221,Petronella,MacGovern,97,5/20/98,0,3.13,Spanish
+180926,2221,Maison,D'eathe,69,9/13/00,0,2.89,"Civil Engr, Concurrent Degree"
+252984,2221,Case,Pundy,39,9/30/01,0,2.77,Pre-Business
+723575,2221,Delmore,Clementucci,6,2/26/03,0,4,Piano Performance
+503392,2221,Emelyne,Buggs,139,2/16/02,0,4,Accounting-Concurrent Degree
+981405,2221,Carree,Benzi,102,1/26/01,0,3.7,Public Relations & Business
+407867,2221,Lennie,Burdytt,93,1/11/04,0,3.61,Biological Sciences-MCD
+572631,2221,Ddene,Klicher,23,2/11/00,1,4,Finance-Concurrent Degree
+100924,2221,Munmro,Shuxsmith,109,8/4/02,0,2.63,Classical Antiquity
+228815,2221,Lyndy,Trustrie,25,9/26/01,0,2.83,Distributed Studies
+704403,2221,Jordan,Steed,81,1/9/04,1,4,Pre-Journalism & Mass Comm
+281850,2221,Shelia,Seldner,141,9/2/03,0,4,Linguistics
+281850,2221,Shelia,Seldner,141,9/2/03,0,4,French
+744081,2221,Koenraad,Loyley,3,12/15/99,0,3.1,Jour Mass Comm - Open Option
+782821,2221,Jefferson,De Hailes,70,2/9/03,0,3.72,Electrical & Comp Engineering
+867342,2221,Ashli,Hillock,63,10/22/01,0,4,Pre-Business
+282075,2221,Sankar,Gadhavi,114,9/13/98,0,4,Woodwind Performance
+605201,2221,Leone,Yewdall,65,12/1/01,0,1.93,Central & East European Stdy
+274958,2221,Dory,Danilchenko,82,2/8/03,1,4,Leadership/CommunityEngagement
+473651,2221,Umeko,Kenealy,124,7/1/03,0,4,Office Administration
+492857,2221,Marissa,Thistleton,34,7/19/03,0,4,Piano Performance
+626402,2221,Goober,Beckles,110,5/7/01,0,2.74,Environmental Design & Bus
+305740,2221,Matias,De Moreno,60,9/12/03,0,2.88,Pre-Geology
+848689,2221,Ferne,Kirckman,99,1/30/00,0,3.23,Music - Undetermined
+979306,2221,Fernando,Ditch,12,11/23/02,1,2.23,News - Editorial
+758563,2221,Huan,Hashimoto,1,5/12/03,0,3.53,Leadership/CommunityEngagement
+615684,2221,Katya,Peter,85,2/2/03,0,2.62,Systems
+807871,2221,Oralie,Nannini,98,8/6/99,0,4,French
+303774,2221,Albina,Beagles,82,5/5/02,0,2.89,Envir/Civ Engineering Conc Deg
+853715,2221,Emyle,Howkins,8,4/21/01,0,3.22,Organ Performance
+599095,2221,Moria,Betts,66,6/29/02,0,2.52,Environmental Design & Bus
+354935,2221,Alvy,Ziemens,136,9/1/03,0,4,Environmental Design
+825361,2221,Ulrikaumeko,Pedroli,43,5/26/01,1,4,Advertising & Business
+590688,2221,Alyss,Ackwood,139,10/25/99,0,4,Geography
+590688,2221,Alyss,Ackwood,139,10/25/99,0,4,"Physics, Concurrent Degree"
+107719,2221,Matthus,Filyashin,5,3/7/98,0,4,Public Relations
+501682,2221,Eadie,Regorz,70,10/10/98,0,3.65,"German Studies, Concur Degr"
+510845,2221,Prakash,Kuroda,110,5/28/04,1,4,Performance
+909829,2221,Maje,Phippen,66,7/26/01,0,2.67,Latin
+416077,2221,Anant,Rao,128,11/10/00,0,3.81,Business - Undetermined
+982674,2221,Romola,Merill,94,1/30/03,1,3.58,Elementary Education
+820682,2221,Chantal,Vaadeland,33,10/10/03,0,4,Business - Undetermined
+106361,2221,Krystalle,Deplacido,79,3/4/03,0,4,Music - Undetermined
+721776,2221,Krispin,Simenel,61,5/26/99,1,3.46,Cinema Studies
+265877,2221,Deborah,MacRory,135,12/24/99,0,3.62,Real Estate
+436476,2221,Hamil,Niese,141,3/27/99,1,4,"Biological Sci-EPO,Concur Deg"
+202439,2221,Ellary,Sanford,45,4/25/98,0,2.99,Chemical Engineering & Bus
+224980,2221,Averil,Stapleton,119,6/2/01,1,3.47,Environmental Prod of Design
+886234,2221,Bev,Topping,122,3/30/99,0,2.05,Engineering Phys & Business
+123891,2221,Ker,Farndale,39,11/1/99,0,3.08,Engineering Physics
+689046,2221,Monti,Woltman,98,7/16/99,0,3.4,Accounting-Concurrent Degree
+603966,2221,Amata,Morley,54,12/28/00,1,4,Ecology & Evolutionary Biology
+514040,2221,Brandon,Heijne,48,5/25/99,1,2.72,Engineering - Undetermined
+857882,2221,Cordell,Bolger,110,9/14/01,0,2.01,Computer Science
+364520,2221,Jordain,Close,16,10/5/00,0,2.26,Statistics and Data Science
+193802,2221,Aleece,Shinton,27,10/10/98,0,4,Music Education
+670039,2221,Tarra,McPhelimey,79,6/26/02,0,3.45,Engineering Plus
+465602,2221,Trace,Casewell,18,7/28/02,0,1.2,Theory
+267323,2221,Toddy,Gladdor,84,1/8/02,0,2.61,Media Studies
+830143,2221,Cymbre,Almak,132,7/26/00,0,4,Environmental Prod of Design
+460913,2221,Lilah,Bakesef,87,5/4/00,0,1.38,Art History
+450147,2221,Ben,Valenta,142,1/13/02,0,3.71,American Studies
+749956,2221,Georgiana,Sloyan,72,7/3/99,1,4,Fine Arts - Art History
+870993,2221,Ulrich,Putten,5,6/16/03,0,2.04,Neuroscience
+107376,2221,Jenica,Cone,31,10/9/98,0,3.69,Operation Mgmt Info Systems
+688963,2221,Jean,Montier,96,10/31/02,0,4,Office Administration
+199559,2221,Chicky,Gitthouse,55,1/10/98,0,3.28,Interdisciplinary Studies
+747456,2221,Yancy,Fedorski,59,10/13/02,0,3.58,Applied Computer Science
+540080,2221,Carlynn,Notman,85,9/30/99,1,4,Broadcast News & Business
+267871,2221,Seamus,MacAlpin,94,1/13/02,0,2.07,Music Education
+535955,2221,Amberly,Spencelayh,63,4/26/00,0,4,Undergrad Initial Statistics
+781955,2221,Florida,Von Helmholtz,60,7/9/03,0,2.68,Pharmacy
+260974,2221,Gradeigh,Milleton,37,3/23/01,0,2.25,History
+606658,2221,Novelia,Purkis,126,8/14/02,0,4,Piano Performance
+806300,2221,Margalit,Dietmar,63,4/10/98,0,4,Design Studies
+557260,2221,Davon,Tilliard,115,12/10/02,0,3.53,Public Relations
+100566,2221,Charis,Jubert,23,2/21/03,0,3.99,Environmental Design & Bus
+655584,2221,Regine,Lackinton,23,9/9/01,0,2.08,Creative Technology and Design
+842280,2221,Prabodh,Sharma,135,2/26/02,0,2.35,Atmospheric & Oceanic Sciences
+936022,2221,Whit,Prise,33,4/13/01,0,3.98,Environmental Design & Bus
+844991,2221,Midge,Glover,132,4/1/01,0,2.68,Religious Studies Concurr Deg
+342632,2221,Leshia,Buncombe,22,2/23/01,0,2.58,Sustainable Planning & Design
+961655,2221,Mikaela,Dany,123,1/31/04,0,3.57,Theatre
+862127,2221,Vivyan,Le Strange,49,3/14/99,0,3.27,"Mechanical Engr, Concur Degree"
+942350,2221,Godard,Librey,138,8/18/03,0,4,Journalism - Open Option
+595761,2221,Gamaliel,Kennally,134,6/1/02,0,3.41,Individually Structured
+373538,2221,Buddie,Bristowe,80,1/17/02,0,2.61,"Economics, Concurrent Degree"
+750028,2221,Winne,Stredder,7,2/19/02,0,4,Broadcast Prod Mgt & Bus
+662750,2221,Nero,Vatcher,80,5/27/02,0,2.02,Aerospace Engineering & Bus
+677221,2221,Dorine,Whittuck,36,9/23/98,0,3.49,Information Science
+671169,2221,Niles,Battison,82,11/24/99,0,2.22,Personnel-Human Resources Mgt
+189139,2221,Batsheva,Rowledge,5,9/22/03,0,4,Biomedical Engineering
+161195,2221,Kitty,Fowls,97,12/2/02,0,2.5,Eng Physics/Physics Concur Deg
+199688,2221,Clarice,Nend,17,5/8/03,1,2.06,"Mechanical Engr, Concur Degree"
+407606,2221,Brody,Kinneir,101,3/2/00,0,2.34,Pharmacy
+673402,2221,Gunilla,Kelk,0,2/7/01,0,0,Organization Management
+500756,2221,Katrine,Fulcher,41,10/21/00,1,3.97,Asian Studies
+692520,2221,Graehme,Bunkle,31,4/20/99,0,2.28,"Physics, Concurrent Degree"
+861684,2221,Sydney,Colmore,138,3/23/03,0,3.75,News - Editorial & Business
+283759,2221,Wandis,Normanton,91,4/12/01,0,4,Pre-Journalism & Mass Comm
+811156,2221,Jarrett,Arents,107,12/20/99,1,3.96,Landscape Architecture
+754688,2221,Eward,Greatbach,47,7/22/01,0,3.42,"Systems, Concurrent Degree"
+800916,2221,Jagannath,Kumar,60,8/30/98,1,4,Environmental Engineering
+934395,2221,Indira,Ascough,93,10/9/01,1,4,Civil Engineering & Business
+836340,2221,Kelcie,Poser,129,12/12/01,0,2.63,Business - Open Option
+309706,2221,Norine,Franies,40,11/19/03,0,2.42,Linguistics
+241328,2221,Pammie,Looney,120,12/20/03,0,4,Astronomy
+429580,2221,Jill,Tinsey,4,2/20/02,0,3.59,Chemistry
+452889,2221,Armando,Rainer,138,12/30/00,0,3.89,Humanities Concurr Deg
+955910,2221,Borden,Ellit,126,5/5/04,0,3.53,Atmospheric & Oceanic Sciences
+476973,2221,Tobiah,Dunstone,18,1/25/04,0,2.75,Physics
+101527,2221,Mattheus,Hurlin,44,6/9/99,1,3.13,Dance
+893671,2221,Reginauld,Deeney,97,7/26/03,0,3.94,Pre-Business
+258545,2221,Gill,Robken,122,8/27/00,0,4,Humanities Concurr Deg
+276702,2221,Reiko,Richardon,99,7/23/00,0,4,Electrical Engineering
+962336,2221,Mariel,Brian,25,11/23/99,0,2.31,Physics
+817334,2221,Korrie,Lidgey,84,7/24/02,0,2.06,Pharmacy
+602747,2221,Luci,Golton,132,7/10/98,1,2.96,Integrative Physiology-Con Deg
+912298,2221,Drake,Matchitt,38,2/16/99,0,4,Anthropology
+613804,2221,Wake,Crinidge,92,3/7/02,0,4,Film Studies Concurr Degree
+889227,2221,Eveline,Speaks,70,9/21/01,0,4,Biological Sciences-MCD
+356596,2221,Sandye,Hurst,65,12/27/99,0,4,Broadcast Production
+496495,2221,Gilly,Gulston,8,7/12/01,0,3.78,A&S - Open Option
+518860,2221,Sylvan,Lankham,34,3/13/02,0,2.98,Ethnic Studies
+224848,2221,Yetta,Joao,76,1/31/01,1,0.02,Spanish
+712902,2221,Flinn,Janas,82,4/9/98,0,4,Operation Mgmt Info Systems
+712971,2221,Care,Harry,66,1/4/98,0,4,"Chemical Engr, Concurrent Degr"
+642561,2221,Danya,McKeurton,77,9/16/03,0,2.12,Linguistics
+389492,2221,Gothart,Greenstead,88,3/7/98,0,2.97,Broadcast Prod Mgt & Bus
+424954,2221,Glen,Fishwick,15,1/18/00,0,3.36,Central & East European Stdy
+228944,2221,Leonelle,Surridge,20,4/25/02,1,2.05,Advertising & Business
+946527,2221,Garey,Hargerie,69,8/20/03,0,4,English
+637518,2221,Stanley,Dyshart,45,2/10/98,0,4,Exploratory Studies
+222906,2221,Doralynne,Elliff,5,2/19/03,1,3.33,Exploratory Studies
+995136,2221,Avrit,Edgington,25,1/3/98,0,3.19,Jewish Studies
+985352,2221,Imogene,Moysey,81,11/4/99,0,4,Provisional Admit
+341768,2221,Locke,Hasley,18,10/20/03,0,2.91,Design Studies
+975532,2221,Nobie,Dankersley,3,4/28/03,1,2.14,Broadcast Production
+410631,2221,Sebastian,Bennoe,74,9/21/02,0,2.88,"Electrical Engr, Concur Degree"
+859443,2221,Inna,Tremoulet,140,7/28/98,0,3.88,Pre-Economics
+384628,2221,Michail,Enzley,112,3/14/01,0,3.78,Neuroscience
+384628,2221,Michail,Enzley,112,3/14/01,0,3.78,Biology
+886544,2221,Kassandra,Wilcox,114,11/22/01,0,2.76,Electrical Engineering
+360377,2221,Barnabe,Da Costa,19,5/9/04,0,4,Advertising & Business
+497777,2221,Emma,Howie,117,1/26/01,0,2.53,Public Relations & Business
+315688,2221,David,Korlat,134,6/23/02,0,2.29,Russian Studies
+826757,2221,Xena,Asquith,124,3/31/99,0,4,Chem & Biol Engr Concur Deg
+713087,2221,Nathan,Semken,129,8/20/00,0,3.12,"Biological Sci-EPO,Concur Deg"
+986618,2221,Burgess,Strudwick,44,9/3/02,0,4,Engineering Open Option
+135668,2221,Shayne,Rekes,78,8/29/98,0,2.49,Atmospheric & Oceanic Sciences
+843925,2221,Jazmin,Boncoeur,18,10/13/01,1,2.28,Environmental Conservation
+894730,2221,Whitby,Perett,41,1/30/98,0,4,Landscape Architecture
+477775,2221,Gaultiero,Longo,7,9/22/00,0,2.56,Woodwind Performance
+137322,2221,Denise,Vannah,69,3/1/01,0,4,Design Studies
+173858,2221,Elisha,Peeter,18,4/25/03,0,2.48,Physics
+530502,2221,Sonja,Penylton,107,2/21/04,0,2.01,Classical Antiquity
+276725,2221,Camellia,Keyzman,59,11/10/99,0,2.53,Ecology & Evolutionary Biology
+233770,2221,Chantal,Hrus,45,10/7/02,0,3.99,Entreparneurship/Small Bus Mgt
+503869,2221,Hardy,Hodgets,12,3/21/99,1,2.99,Jazz Piano Performance
+917002,2221,Jessy,Santo,7,3/18/98,0,3.03,Jazz Piano Performance
+358134,2221,Kellia,Nasi,89,11/19/99,0,2.07,Kinesiology
+869822,2221,Gwynne,Sheringham,36,10/15/98,0,2.54,"Mathematics, Concurrent Degree"
+844228,2221,Page,Golton,99,6/1/01,0,3.8,Pre-Business
+103215,2221,Corri,Rieger,2,9/14/03,0,3.9,Ecol & Evolution Bio-Con Deg
+193819,2221,Brnaba,Kibbel,116,7/7/02,0,2.25,Jazz Piano Performance
+628184,2221,Melloney,Scourfield,71,12/28/98,0,4,Jazz Studies
+145648,2221,Inderjeet,Kulkarni,86,12/15/03,0,3.99,Music - Undeclared
+101199,2221,Lothaire,Billham,14,3/17/03,0,2.06,Small Bus Mgt & Entrprnship
+166738,2221,Kassi,Finnan,31,10/2/01,0,4,Organ Performance
+377016,2221,Sidonnie,Barney,135,2/6/98,0,3.49,Music Education
+503940,2221,Adaline,Catto,66,8/6/98,0,3.77,Music - Arts
+308946,2221,Augy,Leverson,83,11/11/03,0,2.79,"Architectural Engr, C/Degree"
+827556,2221,Ainsley,Harby,43,9/4/00,1,2.14,Performance
+916040,2221,Jorry,Kneel,123,2/6/98,0,4,Piano Performance
+276665,2221,Thelma,Penhalewick,52,8/20/02,0,2.29,Environmental Prod of Design
+952050,2221,Louisette,Pharoah,87,4/19/00,0,4,Pre-Economics
+930719,2221,Giffer,Trevains,32,6/20/98,0,2.9,Distributed Studies
+794240,2221,Viashnavi,Anand,87,1/1/01,0,2.46,Management
+996033,2221,Thain,Norledge,70,3/29/02,1,3.32,Ethnic Studies
+960537,2221,Alic,Thornthwaite,112,6/6/98,0,3.5,Transport/Distribution Mgt
+450488,2221,Timmie,Hurtic,66,12/29/98,0,3.01,Pre-Geology
+852693,2221,Frank,Kestin,38,5/5/03,0,4,Psychology
+860087,2221,Truda,Elders,114,1/22/01,0,3.11,Fine Arts - Studio Arts
+736045,2221,Mitzi,Moscon,137,1/1/02,0,4,Fine Arts - Studio Arts
+787251,2221,Vlad,Sprason,94,10/8/98,1,2.82,Jazz Piano Performance
+444943,2221,Chastity,Horsfield,6,5/15/98,0,2.67,"Mechanical Engr, Concur Degree"
+697313,2221,Dori,Sergent,114,2/3/02,0,3.1,Information Science
+742660,2221,Selena,Haseley,31,9/29/00,0,2.06,Chemical & Biological Engr
+601291,2221,Rozanne,Althrope,139,9/18/01,0,4,Personnel-Human Resources Mgt
+421870,2221,Kort,Boecke,46,10/1/00,0,2.67,Aerospace Engineering Sciences
+295209,2221,Garret,Turbefield,10,7/10/01,0,4,Journalism - Undetermined
+675753,2221,Clem,Cowdroy,129,11/4/02,1,3.75,Open Option
+457305,2221,Kelley,Wand,104,2/22/02,0,3.61,German Studies
+200845,2221,Leigh,Gutcher,19,5/7/03,0,4,Business Analytics
+726436,2221,Kort,Huton,104,7/27/02,0,2.1,Brass/Percussion Performance
+468510,2221,Olivero,Furmenger,84,1/3/00,1,4,Architectural Engineering
+286263,2221,Antoni,Tydd,112,4/20/04,0,2.35,Environmental Engineering
+446277,2221,Binh,Tran,55,1/14/00,0,3.52,Leadership/CommunityEngagement
+359704,2221,Dion,Bigby,18,4/14/98,0,2.37,Music Education
+370887,2221,Merla,Pactat,72,7/26/01,0,2.06,Office Administration
+247264,2221,Shannon,Storks,107,2/22/99,0,3.98,Pre-Business
+935927,2221,Barbee,Malamore,0,3/28/00,0,2.83,"Elec & Comp Engr, Concurr Deg"
+494602,2221,Ravi,Roseblade,55,11/15/02,0,3.68,Journalism
+380807,2221,Kippie,Dawkes,3,9/24/01,0,2.12,Political Science
+372551,2221,Bria,Saunder,47,5/5/01,0,3.53,Biochemistry
+289714,2221,Gloriana,Linkie,45,1/19/98,1,3.11,Performance
+365036,2221,Pansy,Loveitt,142,8/24/02,0,3.16,Cinema Stds/Moving Image Arts
+483139,2221,Rosemarie,Penniall,2,10/19/03,0,3.22,Public Relations
+242221,2221,Dipali,Nagarkar,56,12/4/03,0,3.01,Design Studies
+242221,2221,Dipali,Nagarkar,56,12/4/03,0,3.01,Public Relations
+198152,2221,Elden,McGrady,66,7/10/02,0,4,Biological Sciences-MCD
+432093,2221,Sinclair,Braunston,21,5/3/00,0,3.7,Neuroscience
+574512,2221,George,McVeagh,57,9/26/03,0,1.4,Operations Management
+604076,2221,Ev,Giovanardi,4,7/10/02,0,3.07,Public Relations
+521541,2221,Ellerey,Quarry,132,1/13/03,0,3.37,Sociology
+615961,2221,Candide,Innett,121,4/30/03,0,3.62,Art History
+824076,2221,Lorelle,Coulman,133,11/3/03,0,2.48,Architecture
+858975,2221,Lutero,Wingatt,83,6/1/03,0,4,Music
+849293,2221,Alasteir,Quenby,16,11/27/00,1,3.61,Post-Degree Additional Major
+102886,2221,Gabie,Danton,34,10/15/99,0,4,Engineering Physics
+124411,2221,Lacy,Tottie,42,1/5/00,0,4,Individually Structured
+763922,2221,Sukhwinder,Nibhanupudi,4,3/30/04,0,2.72,History
+763922,2221,Sukhwinder,Nibhanupudi,4,3/30/04,0,2.72,Philosophy
+615274,2221,Dre,Godsmark,82,4/13/98,0,2.04,Chemistry
+613958,2221,Etheline,Noonan,138,1/14/99,0,2.1,Statistics and Data Science
+276669,2221,Fielding,Murty,77,6/13/98,0,3.1,Woodwind Performance
+880716,2221,Kristien,Punchard,48,4/2/04,1,3.76,Integrative Physiology
+877388,2221,Seana,Seid,40,8/19/00,0,4,Music
+342274,2221,Vilma,Ralfe,23,2/2/03,0,4,Media Studies
+190688,2221,Edita,Nellis,77,2/13/99,1,3.84,Communication
+969605,2221,Tien,Metharom,78,11/7/03,0,2.98,Creative Technology and Design
+202420,2221,Pammy,Willcot,21,10/15/01,1,4,Business - Open Option
+480279,2221,Law,Lewsley,93,8/28/98,0,3.64,Real Estate
+615918,2221,Nissa,Tysack,32,4/23/00,0,2.56,Central & East European Stdy
+109345,2221,Malia,Grundell,34,4/14/04,0,3.76,Latin American Studies
+706582,2221,Powell,Shegog,124,11/11/99,0,3.34,Public Relations & Business
+543602,2221,Zedekiah,Weall,18,8/2/99,0,2.83,Finance
+852337,2221,Cacilia,Pates,115,7/21/03,1,3.6,Philosophy
+832246,2221,Tommie,Bach,49,11/20/01,0,4,Entreparneurship/Small Bus Mgt
+785689,2221,Rosabelle,Spykings,27,7/27/03,0,3,"Elec Engr, Computer Sci & Bus"
+917070,2221,Wallas,Blandamore,94,1/5/00,1,2.61,Musicology
+369472,2221,Cross,Hailston,84,9/5/02,1,2.9,Provisional Admit
+516296,2221,Elsi,Baal,21,8/8/98,0,3.59,Film Studies Concurr Degree
+694440,2221,Bernard,Wedon,90,12/4/00,0,2.06,Film Studies Concurr Degree
+601107,2221,Culver,Klimus,49,5/21/03,0,2.68,Mathematics
+896386,2221,Bernie,Hardaway,113,10/17/98,0,3.56,"Electrical Engr, Concur Degree"
+987018,2221,Jolee,Mushrow,111,3/28/00,0,3.91,"Physics, Concurrent Degree"
+663328,2221,Laryssa,Fell,46,4/12/99,0,4,Advertising
+820403,2221,Liliana,Montes,30,12/26/03,0,3.14,Media Studies
+633945,2221,Merline,Marner,64,3/8/02,0,3.13,Chinese - Concurrent Degree
+630641,2221,Sandi,Duchesne,48,6/7/01,1,2.76,Environmental Conservation
+138039,2221,Loella,Quiddington,21,4/17/04,1,4,Central & East European Stdy
+958026,2221,Natka,Strathern,4,2/16/02,0,2.91,Teacher Education Elementary
+227257,2221,Madlen,Frentz,51,4/10/99,1,3.67,Chinese - Concurrent Degree
+401591,2221,Bobbye,Cohen,139,1/4/04,0,3.86,News - Editorial
+222584,2221,Christiana,Adamthwaite,88,6/28/99,1,4,Applied Mathematics
+995749,2221,Lissy,Haighton,7,10/6/03,0,3.04,Central & East European Stdy
+563368,2221,Thornie,Mitkcov,142,1/26/02,1,2.77,International Business
+987591,2221,Irita,Dumbare,4,2/17/99,0,4,"Mathematics, Concurrent Degree"
+574983,2221,Fidelity,Aliberti,12,8/13/03,0,4,A&S - Open Option
+619170,2221,Mawar,Nguyen,104,10/12/01,0,4,Kinesiology
+304067,2221,Brittne,Starbucke,123,10/24/02,1,4,Theatre
+190000,2221,Magnum,Aldcorne,141,6/7/98,0,3.58,Performance
+317051,2221,Justina,Guiel,77,11/11/98,1,3.08,Electrical & Comp Engineering
+320369,2221,Ephrem,Onion,18,10/13/99,0,2.23,Public Relations
+903960,2221,Oby,Curle,70,1/25/04,0,2.14,"Kinesiology, Concurrent Degree"
+204315,2221,Aimil,Draisey,90,12/1/00,0,3.73,Atmospheric & Oceanic Sciences
+783373,2221,Renaud,Baldassi,47,8/1/99,0,4,Journalism - Open Option
+907676,2221,Nollie,Naismith,59,4/22/98,1,2.2,Civil Engineering
+765010,2221,Shelbi,McLleese,111,7/14/98,0,4,Minerals Land Management
+306825,2221,Mira,Matuszak,40,5/2/99,0,2.89,Envir/Civ Engineering Conc Deg
+758870,2221,Emmalyn,Mullen,125,3/28/02,0,2.45,Physics for Secondary Schools
+834893,2221,Frankie,Fandrey,102,5/12/00,1,2.97,Fine Arts - Art Education
+540842,2221,Rubina,McCurlye,137,7/17/01,1,2.05,Journalism - Undetermined
+356773,2221,Yank,Marcam,68,5/27/99,0,4,Information Science
+610171,2221,Debera,Mottley,66,2/15/03,0,4,German Studies
+980846,2221,Claiborne,Jimmison,73,2/23/01,0,3.69,Chinese - Concurrent Degree
+546841,2221,Quyen,Wattana,97,9/16/99,1,4,Economics
+504838,2221,Drusi,Handover,122,2/6/99,1,3.62,Aerospace Engineering Sciences
+636422,2221,Rhett,Fowles,64,6/17/00,0,4,Japanese-Concurrent Degree
+695818,2221,Agathe,Veltman,59,6/25/00,0,3.47,Information Science
+967548,2221,Smith,Ree,60,6/5/01,0,3.55,Piano Performance
+656972,2221,Siffre,Asbury,54,10/18/02,0,4,Information Science
+662366,2221,Estevan,Dethloff,51,4/24/03,1,2.19,Religious Studies Concurr Deg
+660664,2221,Adelle,Niles,127,1/4/98,0,4,Mathematics
+366002,2221,Madelon,Curedell,36,2/5/04,0,4,Central & East European Stdy
+598745,2221,Donnell,Cluse,74,7/18/02,0,4,Pre-Business
+116242,2221,Cyndy,Dawidowsky,116,9/18/98,1,2.37,Personnel-Human Resources Mgt
+930335,2221,Jean,Filimore,25,8/27/01,0,2.26,"German Studies, Concur Degr"
+792859,2221,Elvin,Deguara,115,10/15/01,0,3.78,Electrical Engineering
+716325,2221,Belia,Czajkowska,134,3/10/03,0,2.76,Environmental Design & Bus
+438099,2221,Troy,O'Cullinane,72,4/22/04,0,3.75,Music
+269158,2221,Lynette,Robottham,127,6/14/98,0,2.78,Information Systems
+444017,2221,Arthur,Horsefield,17,6/28/98,1,2.29,Organ Performance
+872700,2221,Feliks,Brabban,88,6/14/98,1,2.79,Biomedical Engineering
+545384,2221,Robers,Sandwich,120,5/16/00,0,3.54,Personnel-Human Resources Mgt
+672675,2221,Ellis,MacKenzie,14,3/12/00,0,3.26,Chem & Biol Engr Concur Deg
+631296,2221,Mariele,Mouan,133,11/30/98,0,2.82,Environmental Design
+629694,2221,Keely,Gumly,106,7/24/03,0,3.19,Advertising
+826389,2221,Ingelbert,Hollingshead,2,5/19/99,0,2.38,"Kinesiology, Concurrent Degree"
+848961,2221,Francisco,Pinto,86,7/27/01,0,3.95,Accounting-Concurrent Degree
+801975,2221,Erie,Okker,11,1/15/00,1,2.2,"Elec & Comp Engr, Concurr Deg"
+114604,2221,Tabor,Pfleger,134,1/24/99,1,4,Composition
+730181,2221,Blinnie,Fairbourn,91,3/27/00,0,3.87,Chinese - Concurrent Degree
+402277,2221,Sadye,Bredbury,140,3/22/02,0,3.72,"Mathematics, Concurrent Degree"
+514433,2221,Rahel,Edge,134,1/22/02,0,2.94,Business - Undetermined
+377983,2221,Hildagarde,Thebeau,101,2/21/04,0,3.65,Systems
+444814,2221,Cody,Choudhury,47,5/1/98,0,3.65,Musical Theatre
+772510,2221,Germain,Peagram,103,9/19/01,0,3.95,Communication
+439617,2221,Betteann,Aizkovitch,115,12/12/03,0,4,Russian Studies
+301422,2221,Blondy,Shanklin,123,9/13/02,1,2,Undergrad Initial Statistics
+525843,2221,Mort,Rudeyeard,86,9/5/01,1,2.02,Atmospheric & Oceanic Sciences
+624587,2221,Prudi,Crab,66,6/29/00,0,3.71,Latin
+375313,2221,Garold,Dunphie,55,10/31/02,0,3.4,Woodwind Performance
+106307,2221,Keary,Chislett,90,5/29/00,0,3.49,"Kinesiology, Concurrent Degree"
+474549,2221,Hastings,Huddle,72,4/11/01,0,3.81,Humanities
+133414,2221,Poppy,Surgeon,92,2/29/04,0,3.87,Environmental Design & Bus
+102814,2221,D'arcy,Kindleysides,23,4/12/02,0,3.05,"Linguistics, Concurrent Degree"
+917387,2221,Ivie,Riepl,83,10/20/01,0,4,Sustainable Planning & Design
+572202,2221,Lucy,Aldersea,85,5/8/03,0,3.24,Creative Technology and Design
+592920,2221,Dodie,Leddie,131,9/28/02,0,3.93,Biomedical Engineering
+738627,2221,Shaylah,Vick,142,11/17/00,0,4,Integrated Design Engineering
+951995,2221,Janella,Beaze,79,12/21/98,0,4,Environmental Engineering
+262173,2221,Jania,Jowett,103,7/18/03,0,3.13,Architectural Engineering
+434532,2221,Enrique,Zamora,77,9/16/98,0,4,Pre-Engineering
+527949,2221,Gael,Inchbald,60,4/20/00,0,2.89,Central & East European Stdy
+943337,2221,Cordy,Sissens,28,8/9/00,0,2.83,Accounting
+735586,2221,Oriana,Ramirez,92,1/28/98,0,3.9,Small Bus Mgt & Entrprnship
+735586,2221,Oriana,Ramirez,92,1/28/98,0,3.9,Accounting
+977538,2221,Arleta,Gaddie,137,12/24/02,1,4,Theatre
+178177,2221,Ashia,Copcott,78,5/31/98,0,2.73,Organization Management
+775252,2221,Catlin,Weightman,55,4/9/01,0,4,Music
+157017,2221,Marven,Castellucci,84,5/1/01,0,4,Undergrad Initial Statistics
+893029,2221,Tandi,Keyson,4,4/6/00,0,2.01,Ecol & Evolution Bio-Con Deg
+773944,2221,Georgeanna,Mallock,57,1/1/03,0,2.15,Ethnic Studies
+822748,2221,Rurik,Haddon,43,11/27/99,0,2.94,Journalism - General Studies
+634094,2221,Roberto,Morales,52,2/9/01,0,4,Comm Disorders & Speech Sci
+981006,2221,Elianore,Gardiner,52,6/26/99,0,4,Chemical & Biological Engin
+920819,2221,Ricky,Dacca,65,12/10/99,0,3.25,Chemistry
+488688,2221,Claudia,Garcia,19,3/16/03,1,4,"Computer Sci, Concurrent Degr"
+787678,2221,Timothea,Crucetti,53,6/5/99,0,2.22,Biological Sciences-EPO
+492837,2221,Louie,Woolatt,66,4/4/04,1,2.15,Business - Undetermined
+778193,2221,Inga,Matula,69,3/26/03,0,2.14,Psychology
+602702,2221,Pierette,Semens,33,10/27/98,0,4,Music - Undeclared
+120742,2221,Cob,Albrook,5,8/25/03,0,4,Aerospace Engineering Sciences
+851042,2221,Ginelle,Morden,112,10/10/98,0,3.82,Physics
+630019,2221,Fredrick,Gardiner,103,12/9/99,0,4,"French, Concurrent Degree"
+588620,2221,Juanita,Fernandez,95,10/9/99,0,2.29,Chemistry
+363949,2221,Essie,Rykert,49,12/8/02,1,4,"Aerospace Engr Sci, Concur Deg"
+254664,2221,Ferrel,Bandy,4,12/1/98,0,4,Distributed Studies
+194705,2221,Carmelia,Frankis,49,9/11/02,0,4,Pre-Geology
+428837,2221,Enos,Gibben,35,4/3/04,0,3.43,Voice Performance
+735315,2221,Dalis,Mearing,136,9/3/03,0,3.07,Engineering Physics
+862857,2221,Teddi,Willacot,0,9/28/98,0,4,Classics
+286039,2221,Lanna,Hargrave,26,1/30/01,0,3.92,Public Service Option-PSC
+312445,2221,Anitra,Blanque,28,1/6/04,0,2.9,Sociology
+221227,2221,Pippo,Mary,125,3/12/00,0,3.27,American Studies
+667704,2221,Lolita,Abramow,110,7/14/00,1,3.1,Minerals Land Management
+857692,2221,Melissa,De Ath,79,10/10/00,0,3.27,Kinesiology
+991232,2221,Prudy,Dehn,120,4/23/00,0,3.07,Accounting-Concurrent Degree
+692627,2221,Esmeralda,Torrente,74,2/15/04,0,3.06,Broadcast News
+692627,2221,Esmeralda,Torrente,74,2/15/04,0,3.06,Journalism - General Studies
+351618,2221,Innis,Wark,49,6/19/01,0,4,Classical Antiquity
+547840,2221,Rolph,Goodright,67,4/2/02,0,4,Music Education
+915442,2221,Karrah,Coventry,79,3/5/02,0,3.18,Entreparneurship/Small Bus Mgt
+722279,2221,Broderick,Headon,124,9/30/98,0,2.66,Architectural Engineering
+345974,2221,Keven,Gallager,89,8/18/01,0,3.51,Office Administration
+359263,2221,Aluino,McGrirl,1,2/16/03,0,3.26,"Architectural Engr, C/Degree"
+929365,2221,Jacenta,Iacopo,126,3/2/99,0,2.43,Chemical Engineering
+916315,2221,Violante,Brendeke,3,8/28/02,1,3.49,Sustainable Planning & Design
+747596,2221,Seana,Vaz,34,2/17/01,0,3.24,Biology
+892403,2221,Nealson,Theze,62,9/8/99,1,2.32,Personnel-Human Resources Mgt
+801984,2221,Raddie,Pleat,130,4/4/00,1,3.62,International Affairs
+281980,2221,Dionis,Muselli,73,2/20/98,0,3.35,Sustainable Planning & Design
+218387,2221,Florette,Schrir,59,1/16/99,0,4,Integrated Design Engineering
+324085,2221,Bonita,Gianelli,113,5/6/03,1,4,"Computer Sci, Concurrent Degr"
+228290,2221,Berty,Missen,137,12/16/02,0,4,Business - Open Option
+127394,2221,Fae,Donaghie,9,11/7/98,0,2.57,Marketing
+878555,2221,Moises,Jankowski,89,6/19/03,0,3.33,Accounting-Concurrent Degree
+552714,2221,Gaylor,Jiricka,41,5/25/03,0,2.03,Astronomy
+376632,2221,Brittne,Barnhill,35,3/16/03,0,3.71,"Mechanical Engr, Concur Degree"
+852624,2221,Blake,Clendening,136,5/30/02,1,3.6,Applied Mathematics
+783301,2221,Amalle,Housbey,92,10/6/02,0,3.18,"Civil Engr, Concurrent Degree"
+295207,2221,Allison,Gammons,12,2/25/04,0,4,"Psychology, Concurrent Degree"
+947436,2221,Silva,Firsby,78,12/5/03,0,3.12,Humanities Concurr Deg
+984635,2221,Nels,Ligerton,108,6/2/01,0,2.51,Musical Theatre
+311192,2221,Bibiana,Espino,134,4/15/00,0,2.72,Journalism - Undetermined
+856968,2221,Neille,Pietrusiak,78,6/10/99,0,4,Humanities
+453523,2221,Lilas,Askie,57,12/12/98,0,4,Integrative Physiology
+609355,2221,Der,Kealey,28,9/6/99,1,2.45,Environmental Conservation
+566278,2221,Tiphany,Birkbeck,78,5/9/99,0,2.14,Small Bus Mgt & Entrprnship
+130371,2221,Brooks,Parlett,36,5/9/04,0,4,East Asian Studies
+491199,2221,Modesty,Mendonca,70,3/30/04,1,2.22,"Electrical Engr, Concur Degree"
+460986,2221,Tatiania,Kohn,136,7/23/00,0,3.28,Physics for Secondary Schools
+667654,2221,Elsworth,Richfield,87,3/29/00,0,4,A&S - Open Option
+173056,2221,Augusto,Maes,42,4/14/99,0,3.55,Dance
+370510,2221,Averyl,Casino,74,5/1/04,0,2.74,Aerospace Engineering Sciences
+729474,2221,Tore,Rucklidge,82,7/23/03,1,2.22,Woodwind Performance
+265019,2221,Lucy,Sinnie,104,5/26/99,0,4,Anthropology
+238606,2221,Sholom,Kinman,102,9/15/00,0,4,Leadership/CommunityEngagement
+532694,2221,Victor,Bauer,17,3/5/98,0,3.7,Theory
+190801,2221,Cordy,Dewdeny,14,5/24/00,0,2.1,Art History
+441711,2221,Shana,Forker,92,9/3/02,1,2.92,Chemical & Biological Engr
+978598,2221,Winonah,Salzen,119,8/22/01,0,2.91,Provisional Admit
+406605,2221,Olly,Borer,0,2/28/04,0,3.16,Geology
+690851,2221,Carolynn,Vasler,4,12/19/98,1,4,Ecol & Evolution Bio-Con Deg
+735963,2221,Elsinore,Dight,113,4/20/02,0,4,Women and Gender Studies
+373573,2221,Humberto,Tourville,83,9/18/98,1,3.27,Fine Arts - Art History
+900418,2221,Caprice,Labrow,28,3/13/04,1,2.68,Elec Engr & Computer Sci
+443637,2221,Obidiah,Owlner,142,9/13/01,0,4,Astronomy
+772003,2221,Tobit,Kliemchen,14,9/7/99,0,4,Organization Management
+766132,2221,Carlos,Herrera,9,1/22/02,1,3.37,Finance-Concurrent Degree
+465814,2221,Whitney,Fullerton,32,4/10/01,0,4,Dance
+601706,2221,Freeland,Couth,9,12/30/99,0,3.67,Political Science
+634013,2221,Percival,O'Dogherty,74,7/13/99,0,3.58,African & Middle East Studies
+401975,2221,Valeda,Heeran,17,2/19/00,0,3.24,Religious Studies Concurr Deg
+866738,2221,Conrado,Perez,40,10/20/03,0,3.53,Applied Mathematics
+717664,2221,Shelton,Alcide,15,2/5/98,0,3.69,Distributed Studies
+358560,2221,Page,Shilito,93,3/15/04,0,4,Communication
+315792,2221,Phuong,Phan,46,7/11/99,0,3.49,Pharmacy
+864540,2221,Keven,Bowe,48,12/18/99,0,2.44,Engineering Plus
+223807,2221,Osmond,Dunphie,106,10/14/03,0,2.72,Latin
+735517,2221,Bjorn,Furmagier,129,11/6/01,0,3.89,Engineering - Undetermined
+599586,2221,Chrisy,Viney,6,4/25/02,1,3.49,Film Studies Concurr Degree
+466534,2221,Bessie,Boggish,44,8/30/98,0,2.89,Performance
+225914,2221,Irv,Abrahamowitcz,119,12/25/01,1,3.47,Piano Performance
+705328,2221,Hermon,Feeny,58,5/24/00,0,3.05,Broadcast News
+986365,2221,Alexio,Strutz,4,11/3/02,1,4,Theory
+815185,2221,Orin,Canton,95,1/16/01,0,3.96,Jewish Studies
+456986,2221,Abey,Batte,83,5/6/03,0,2.55,"Physics, Concurrent Degree"
+268984,2221,Charlena,Hattoe,52,4/21/00,0,3,Jewish Studies
+130381,2221,Angelico,Adriani,138,5/20/03,1,3.96,Finance-Concurrent Degree
+370890,2221,Flora,Esteves,49,3/22/98,0,3.69,Entreparneurship/Small Bus Mgt
+437038,2221,Olga,Dumberrill,7,12/19/00,1,3.97,"Mathematics, Concurrent Degree"
+967894,2221,Salomo,Hearsey,81,4/30/00,0,3.28,Minerals Land Management
+551940,2221,Mohamad,Tran,87,1/15/03,0,4,"Psychology, Concurrent Degree"
+280661,2221,Benedict,Tansill,81,6/21/99,1,2.25,"Applied Math, Concurr Degree"
+673782,2221,Jilli,Euels,115,6/22/00,0,2.45,"Computer Sci, Concurrent Degr"
+749095,2221,Phyllys,Belham,83,1/12/00,0,3.66,Chemical Engineering
+521804,2221,Sari,Liepins,34,3/4/98,1,4,Neuroscience
+498278,2221,Jerrilee,Teas,42,5/24/00,0,3.37,"Biological Sci-EPO,Concur Deg"
+348485,2221,Dre,Kermit,36,3/13/03,1,2.06,Japanese-Concurrent Degree
+937845,2221,Mercedes,Vallentin,69,8/31/01,0,2.8,"Electrical Engr, Concur Degree"
+214908,2221,Aldon,Kensitt,118,6/5/03,1,2.73,Accounting
+665982,2221,Aluin,Eamer,2,3/17/04,0,4,Woodwind Performance
+195253,2221,Marylou,Regnard,12,10/11/98,0,4,Piano Performance
+544736,2221,Sonja,Fradgley,109,9/4/02,0,2.25,Journalism - Open Option
+382139,2221,Gilli,McCanny,4,6/2/03,0,4,Leadership/CommunityEngagement
+987276,2221,Myca,Enriquez,7,5/10/01,0,2.04,News - Editorial
+823813,2221,Orly,Hazael,16,8/8/02,0,2.79,Music & Business
+306649,2221,Meaghan,Lush,95,8/14/02,1,2.77,Comm Disorders & Speech Sci
+905222,2221,Lon,Stainton - Skinn,74,7/29/98,1,4,Envir/Civ Engineering Conc Deg
+112168,2221,Darcie,Clowley,24,3/16/02,0,2.39,English
+608905,2221,Hew,Pollicott,73,8/11/03,0,4,News - Editorial
+340426,2221,Dacie,Rack,118,4/12/04,1,4,Electrical & Comp Engineering
+708465,2221,Jerry,Hawkwood,116,12/15/02,0,2.5,Biological Sciences-MCD
+317407,2221,Daphne,Dolbey,62,6/5/02,0,3.24,Afro-American Studies
+529312,2221,Arturo,Morga,46,2/2/01,0,4,Biological Sci-Education
+458778,2221,Murdock,Rosevear,74,12/27/03,0,3.24,Broadcast Production
+247841,2221,Eachelle,Ableson,128,11/10/02,0,2.08,Italian
+703263,2221,Dallon,Angelo,32,7/20/99,0,4,Undergrad Initial Statistics
+224965,2221,Carmella,Brend,49,11/19/01,0,2.88,Media Studies
+819175,2221,Kellby,Fitzsimons,116,8/1/99,0,4,Aerospace Engineering & Bus
+776450,2221,Dill,Clemendot,133,4/28/99,1,4,Design Studies
+960837,2221,Kimberli,Vanin,77,9/22/99,0,3.32,Theatre
+403043,2221,Shina,Volante,74,10/31/00,0,3.05,Information Science
+624641,2221,Margette,Baggallay,104,10/1/01,0,2.72,Design Studies
+684127,2221,Mordy,Ingon,88,4/12/98,0,3.06,Biology
+628233,2221,Leupold,Wanklyn,95,7/21/01,0,2.73,Environmental Design & Bus
+998948,2221,Neilla,Kaes,127,4/13/99,0,2.8,French
+285948,2221,Leticia,Bohling,82,6/8/02,1,3.07,"Linguistics, Concurrent Degree"
+437542,2221,Mattheus,Ciccerale,138,3/23/98,0,4,Anthropology
+223081,2221,Theressa,McGrowther,66,9/11/99,0,2.7,Computer Science
+534068,2221,Merill,Harbage,3,5/23/00,0,4,Physics
+145569,2221,Fonz,Grellier,79,4/25/98,0,2.41,"Aerospace Engr Sci, Concur Deg"
+399170,2221,Arlee,Holyard,57,2/2/03,0,3.52,Women and Gender Studies
+494390,2221,Bianca,Torres,4,10/1/01,0,4,Music Education
+783093,2221,Lena,Mossop,141,1/18/98,0,2.92,Computer Science & Business
+774752,2221,Reinhard,Martinet,73,11/27/98,0,3.8,Tourism Management
+786438,2221,Findlay,Ludlow,117,3/2/02,0,3.26,"Elec & Comp Engr, Concurr Deg"
+397427,2221,Hy,Drife,82,1/22/99,0,3.38,Biochemistry
+796283,2221,Rhona,Kelsall,13,8/18/03,0,2.56,East Asian Studies
+468994,2221,Chen,Tollett,46,12/11/03,0,3.07,East Asian Studies
+114348,2221,Ario,Rabbitts,12,1/26/00,0,4,"Systems, Concurrent Degree"
+293263,2221,Rafaello,Dutchburn,11,6/6/99,0,4,"Mechanical Engr, Concur Degree"
+479000,2221,Rudy,Secombe,14,8/6/01,0,2.45,Communication
+975314,2221,Kathie,Orsi,11,8/9/01,0,3.74,Architect Engr & Bus
+888180,2221,Olympie,Normadell,2,7/28/99,0,3.27,Engineering Plus
+762268,2221,Karim,Breckin,0,3/23/02,1,2.19,Geology
+953041,2221,Howie,Stallard,106,3/26/99,1,2.77,Computer Science
+834661,2221,Wat,Joll,73,6/24/98,1,3.79,"Linguistics, Concurrent Degree"
+335164,2221,Reid,Jendrich,48,9/23/00,0,2.33,Broadcast Production
+985831,2221,Monah,Pepye,95,1/2/99,0,4,Design Studies
+515092,2221,Allister,MacMaster,9,9/19/99,1,4,Broadcast Production
+640860,2221,Desdemona,Allaway,39,5/26/04,0,2.94,Spanish
+531126,2221,Fern,Girkins,94,8/16/03,0,3.1,Theory
+441668,2221,Sharia,Edelheit,104,8/22/01,1,4,"Biological Sci-EPO,Concur Deg"
+804066,2221,Daphene,McNaught,15,10/3/03,1,3.73,Applied Computer Science
+622637,2221,Arlen,Dawidsohn,46,10/27/01,0,3.88,Mathematics
+983922,2221,Demetria,Maier,97,1/18/98,0,2.72,Computer Science Applications
+506200,2221,Aila,Bramelt,79,4/26/01,1,3.29,Spanish
+631622,2221,Margaux,Papen,38,4/1/00,1,3.75,"Civil Engr, Concurrent Degree"
+585026,2221,Neysa,Bootland,37,1/28/03,0,4,Public Relations & Business
+967678,2221,Angelina,de Bullion,29,6/15/00,1,4,Undergrad Initial Statistics
+405177,2221,Kiah,Rait,86,3/21/00,0,3.65,Jewish Studies
+155867,2221,Germain,Southers,124,10/27/99,0,4,Computer Science
+940201,2221,Ernaline,Rankine,18,9/26/02,0,4,Performance
+897748,2221,Carilyn,Roofe,70,9/3/01,1,4,"German Studies, Concur Degr"
+544598,2221,Anton,Sleigh,38,11/21/03,0,3.05,"Linguistics, Concurrent Degree"
+988292,2221,Melva,Bome,86,12/16/01,0,4,East Asian Studies
+369342,2221,Terri-jo,Rickhuss,76,12/19/00,0,2.97,"Speech,Lang,Hearing Sciences"
+382107,2221,Meagan,Remmers,127,12/31/02,1,4,Environmental Conservation
+982969,2221,Desdemona,Mantz,61,12/1/99,0,2.14,Elec Engr & Computer Sci
+357151,2221,Arther,Forshaw,107,3/10/03,0,4,Engineering - Open Option
+284573,2221,Eveleen,Yarrow,21,3/8/02,0,2.37,Fine Arts - Art History
+506532,2221,Clevie,Andreolli,82,10/24/02,1,4,English
+444154,2221,Ottilie,Puller,21,1/4/03,0,3.01,Pre-Economics
+498298,2221,Filmore,Milhench,90,3/13/00,1,4,Business Analytics
+675337,2221,Averil,Hurdwell,18,4/10/03,0,2.53,Chemical Engineering & Bus
+335428,2221,Muffin,Hustings,34,10/18/01,0,3.72,Fine Arts - Studio Arts
+974178,2221,Ame,Shooter,136,11/17/02,1,3.45,String Performance
+395036,2221,Bartolomeo,Van den Velde,133,6/17/98,0,3.84,"Information Systems, Conc Degr"
+718944,2221,Ardelle,Langran,41,12/31/00,0,2.25,Accounting-Concurrent Degree
+720431,2221,Catriona,Broxis,8,3/7/04,1,4,Statistics and Data Science
+909777,2221,Cathlene,Buntin,133,4/2/00,0,3.52,Physics
+862856,2221,Darcy,Hadlow,115,1/10/03,0,2.95,Fine Arts - Art History
+848519,2221,Damaris,Stonman,73,7/7/02,0,3.52,Elec Engr & Computer Sci
+256460,2221,Tabb,Rhoddie,64,3/19/03,0,3.92,Religious Studies Concurr Deg
+347129,2221,Dela,Durrett,93,3/1/98,0,4,Jewish Studies
+441655,2221,Wadsworth,O'Kynsillaghe,21,8/12/99,1,2.98,Russian Studies
+917322,2221,Lilla,Breissan,103,7/7/98,0,2.09,Chemical & Biological Engr
+729817,2221,Kimmi,Malins,20,6/20/99,0,2.64,Applied Mathematics
+477288,2221,Latrina,Humm,100,12/27/98,0,3.29,News - Editorial & Business
+165887,2221,Chaunce,Crebbin,47,8/2/98,0,2.84,Classical Antiquity
+421956,2221,Almira,Pithie,34,4/26/04,0,4,Computer Science
+656637,2221,Avram,Stanex,82,11/10/98,0,2.44,Music & Business
+895485,2221,Gert,Jepperson,129,3/18/99,0,2.58,Business Analytics
+986104,2221,Hildy,Hazel,107,5/28/00,0,3.77,Atmospheric & Oceanic Sciences
+436910,2221,Marianna,Gylle,89,5/20/99,0,2.8,Business Analytics
+918442,2221,Verna,Annett,21,3/4/04,0,2.19,Biomedical Engineering
+888110,2221,Rodrick,Frowen,64,7/9/98,1,2.31,Post-Degree Additional Major
+357533,2221,Marylynne,Limpertz,108,11/11/02,0,2.2,Information Science
+844815,2221,Prudi,Stelljes,53,8/18/00,0,2.53,Film Studies Concurr Degree
+406602,2221,Ibbie,Fitchet,21,11/10/98,0,3.38,"French, Concurrent Degree"
+181720,2221,Michaella,Dmisek,57,9/15/03,0,3.48,Journalism
+285912,2221,Sibeal,Willeson,56,1/31/00,0,3.66,Biological Sciences-MCD
+987069,2221,Zebedee,Jezzard,90,7/22/98,0,3.68,Pre-Economics
+726255,2221,Thedric,Duester,44,11/12/00,0,4,Aerospace Engineering & Bus
+220446,2221,Wilt,Norris,5,7/1/01,0,3.99,Advertising
+636787,2221,Terri,Hark,105,3/2/00,0,2.1,English
+141532,2221,Kandace,Patrone,22,2/19/00,1,3.31,Journalism
+369887,2221,Nate,Vankin,8,5/31/04,0,2.06,Open Option
+722667,2221,Judon,Kenson,111,2/19/99,0,2.1,Pre-Communication
+360576,2221,Ardyth,Stewartson,79,2/11/99,1,3.76,Engineering Physics
+305727,2221,Andras,Blampy,76,6/18/00,0,3.11,Post-Degree Additional Major
+853838,2221,Aime,Goundsy,125,1/23/02,0,3.16,Jazz Piano Performance
+950831,2221,Dicky,Gaffey,2,10/17/01,0,3.85,Integrated Design Engineering
+477438,2221,Joey,Gibard,26,10/1/02,0,2.74,Music
+477438,2221,Joey,Gibard,26,10/1/02,0,2.74,Elementary Education
+990093,2221,Walton,Saulter,25,11/5/99,0,2.64,Elementary Education
+355393,2221,Sinclare,Ivanchenkov,64,5/24/02,0,2.77,Biochemistry
+230338,2221,Hilary,Templman,31,1/20/98,0,2.32,Accounting
+999803,2221,Ravid,Hewlings,114,3/12/98,0,2.79,Composition
+462158,2221,Broderic,Dumbrall,89,3/2/98,0,3.5,Provisional Admit
+148888,2221,Jonah,Giabucci,5,2/17/98,0,3.66,Chem & Biol Engr Concur Deg
+551018,2221,Agathe,Blinerman,18,11/27/02,1,4,Engineering Physics
+791089,2221,Dorie,Risom,55,4/16/02,0,2.52,"Systems, Concurrent Degree"
+837389,2221,Robbert,Berthelet,89,4/30/00,0,2.91,Sustainable Planning & Design
+202152,2221,Zitella,Hardison,10,6/6/99,0,2.55,"Biological Sci-EPO,Concur Deg"
+113079,2221,Holt,Redwall,90,7/2/02,0,3.59,Architect Engr & Bus
+762580,2221,Tammara,Waiton,3,6/6/03,0,2.31,Chinese - Concurrent Degree
+478461,2221,Fifine,Simeonov,37,1/13/02,0,3.37,Religious Studies
+132968,2221,Teirtza,MacNair,58,10/12/02,0,4,Physics
+139582,2221,Joey,Shafier,74,2/9/02,0,3.1,Undergrad Initial Statistics
+477498,2221,Barbie,Boteman,8,3/6/03,0,4,Broadcast Production
+624755,2221,Samuele,Pickston,128,1/10/98,1,3.02,Biological Sciences-EPO
+650294,2221,Iorgos,Brunstan,79,8/7/02,1,3.96,Integrative Physiology
+658582,2221,Lilli,Blampy,16,10/1/03,0,3.81,Pharmacy Initial Statistics
+524456,2221,Lottie,Rosensaft,32,10/24/98,0,4,Brass/Percussion Performance
+851458,2221,Zorah,Scarr,59,7/17/98,0,3.26,Ecology & Evolutionary Biology
+464871,2221,Kristen,Cushe,0,4/1/03,0,2.52,Asian Studies
+207621,2221,Issie,Keighly,84,11/10/00,0,3.68,"Computer Sci, Concurrent Degr"
+265506,2221,Dyanne,Grestie,111,2/17/98,0,4,Environmental Studies
+827840,2221,Rhodia,Flores,120,2/24/98,0,4,Media Studies
+862092,2221,Baird,Dessent,127,4/5/01,0,2.94,Environmental Studies
+698299,2221,Huntington,Braunds,33,12/27/99,0,4,"Biological Sci-EPO,Concur Deg"
+233415,2221,Josey,Clout,86,3/18/00,0,4,Environmental Conservation
+982705,2221,Constantin,Rickhuss,58,12/24/00,0,4,Strategic Communication
+566875,2221,Kliment,Suckling,88,2/6/01,0,4,Latin American Studies
+962236,2221,Zebulen,Yewman,90,8/18/03,0,2.47,Classical Antiquity
+131285,2221,Carleton,Abendroth,140,4/28/02,1,4,Broadcast Production
+475443,2221,Samaria,Boldt,77,12/5/03,1,3.28,Russian Studies
+267203,2221,Gordon,Courvert,70,8/9/00,0,2.43,Engineering Open Option
+821167,2221,Leila,Arlett,71,10/13/03,0,3.22,Chemical Engineering
+698318,2221,Berna,Roseborough,15,1/6/04,1,3.81,Distributed Studies
+525259,2221,Corney,Duesbury,69,6/25/98,1,2.34,"Linguistics, Concurrent Degree"
+229371,2221,Alain,Shepton,79,4/14/99,1,2.77,Japanese
+982770,2221,Alix,Schoffel,78,12/18/02,0,4,"Chemical Engr, Concurrent Degr"
+705582,2221,Fianna,Durrett,10,7/18/03,0,2.6,Music Education
+647001,2221,Jeane,Denerley,60,12/26/02,1,4,Cinema Studies
+784245,2221,Kelley,Filewood,104,2/5/01,1,3.26,Management
+121910,2221,Chrotoem,Arnaudot,34,11/27/98,1,2.26,"Psychology, Concurrent Degree"
+467706,2221,Justus,Bultitude,64,9/5/01,0,4,Envir/Civ Engineering Conc Deg
+759014,2221,Arlee,Salway,46,6/11/99,0,4,Composition
+878322,2221,Ilyssa,Harbisher,78,6/1/99,0,4,Public Agency Administration
+403629,2221,Hilarius,Gateshill,66,11/4/02,0,4,Neuroscience
+494638,2221,Eldredge,Bravery,140,1/5/00,0,2.76,Eng Physics/Physics Concur Deg
+815567,2221,Leeland,Thorns,84,9/13/00,0,4,Italian
+203284,2221,Maje,Ivanikhin,134,1/19/00,0,4,Classics
+588855,2221,Hamel,Jovasevic,98,8/26/01,1,2.5,"German Studies, Concur Degr"
+787080,2221,Norrie,Gaughan,19,6/30/98,0,3.73,"Aerospace Engr Sci, Concur Deg"
+752073,2221,Sydney,Bridgman,40,5/8/04,0,3.47,Applied Mathematics
+992810,2221,Bess,Tunna,73,12/22/00,0,2.38,Ecol & Evolution Bio-Con Deg
+932627,2221,Wells,Feldbaum,24,5/25/04,0,4,Cinema Stds/Moving Image Arts
+927673,2221,Lilith,Oakeshott,86,3/14/03,0,4,A&S - Open Option
+578051,2221,Brig,Jessard,25,1/17/99,0,3.12,Engineering Physics
+153198,2221,Dee,Sarvar,88,8/7/03,1,4,Ecol & Evolution Bio-Con Deg
+773996,2221,Sissy,Timcke,136,2/2/02,0,2.53,Open Option
+886327,2221,Averell,Calterone,96,12/7/01,0,4,Environmental Prod of Design
+293324,2221,Fitzgerald,MacSwayde,6,8/3/98,0,3.95,Engineering Open Option
+480094,2221,Analiese,Lownds,65,4/21/04,0,2.91,Teacher Education Elementary
+741841,2221,Ericha,Iuorio,93,4/24/00,0,2.49,Teacher Education Elementary
+501646,2221,Farlee,Devorill,58,5/26/00,0,2.24,Piano Performance
+755123,2221,Kermit,Sells,8,3/21/99,0,3.17,Music
+113161,2221,Rex,Dormer,117,5/11/99,0,4,"Physics, Concurrent Degree"
+860666,2221,Hervey,O'Hern,64,5/25/99,1,3.68,Chem & Biol Engr Concur Deg
+514889,2221,Erskine,Paget,7,5/23/98,0,4,Japanese-Concurrent Degree
+151438,2221,Rhianna,Walcot,42,6/27/01,0,2.75,Performance
+426394,2221,Denni,Filppetti,47,6/11/98,1,3.55,Transport/Distribution Mgt
+395768,2221,Renell,Mowen,86,4/19/02,0,2.62,Public Service Option-PSC
+399355,2221,Emmott,Britch,1,11/2/99,1,4,Dance
+881593,2221,Susann,Goodin,79,5/2/02,0,2.18,Engineering - Undetermined
+575315,2221,Emmy,Aery,50,12/5/00,1,4,Organization Management
+575315,2221,Emmy,Aery,50,12/5/00,1,4,Spanish
+895327,2221,Amberly,Fruen,18,7/20/98,1,3.57,"Mechanical Engr, Concur Degree"
+204240,2221,Eben,Delong,50,3/15/98,0,3.45,Individually Structured
+978785,2221,Katti,Sherville,20,9/18/00,1,2.09,Physics
+982333,2221,Alice,Uren,142,7/28/98,0,4,Latin American Studies
+398682,2221,Boote,Clawley,0,4/10/98,0,4,Atmospheric & Oceanic Sciences
+150535,2221,Lilias,Bullas,131,12/19/01,0,4,Latin American Studies
+975345,2221,Cliff,Boggas,99,4/16/01,1,3.71,Geography
+745403,2221,Dick,Willment,48,9/8/99,0,2.9,Journalism - General Studies
+244770,2221,Shaun,Cleveland,5,4/3/99,0,3.86,Civil Engineering & Business
+645664,2221,Lyell,Harsent,134,10/26/01,1,2.08,"Economics, Concurrent Degree"
+941248,2221,Rozele,Gifford,110,3/13/01,0,3.16,Spanish
