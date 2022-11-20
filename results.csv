@@ -1,284 +1,94 @@
-student_id,term_id,first_name,last_name,credits_earned,date_of_birth,student_employee,gpa,enrollment_id,course_title,class_id,grade,age,course_subject,course_number,course_section,academic_plans
-117220,2221,Daniele,Armsden,115.0,2001-07-07,0.0,4.0,,,,,21,,,,Computer Science
-968702,2221,Sung-Hoon,Chen,140.0,2000-01-15,0.0,2.99,,,,,22,,,,Information Science
-152096,2221,Deepali,Gupta,106.0,1998-02-17,1.0,3.44,,,,,24,,,,Computer Science & Business;Management
-152096,2221,Deepali,Gupta,106.0,1998-02-17,1.0,3.44,,,,,24,,,,Computer Science & Business;Management
-152096,2221,Deepali,Gupta,106.0,1998-02-17,1.0,3.44,,,,,24,,,,Computer Science & Business;Management
-152096,2221,Deepali,Gupta,106.0,1998-02-17,1.0,3.44,,,,,24,,,,Computer Science & Business;Management
-689852,2221,Jayanthi,Mhasalkar,127.0,1998-01-08,0.0,3.55,,,,,24,,,,Transport/Distribution Mgt
-171715,2221,Delila,Wonter,132.0,2001-12-31,0.0,3.26,,,,,20,,,,"Mechanical Engr, Concur Degree"
-791544,2221,Haleigh,Kiledal,127.0,2001-03-29,1.0,3.77,,,,,21,,,,"Biological Sci-EPO,Concur Deg"
-330311,2221,Quintana,Marginson,117.0,2001-10-27,0.0,4.0,,,,,21,,,,Entreparneurship/Small Bus Mgt
-351029,2221,Coleman,Poizer,127.0,2001-12-30,0.0,3.42,,,,,20,,,,Sociology
-436095,2221,Cathe,Tidcomb,107.0,2000-08-18,1.0,2.38,,,,,22,,,,"Linguistics, Concurrent Degree"
-111967,2221,Whitby,Cattlow,142.0,2003-12-24,1.0,2.88,86175930.0,General Physics 1,PHYS-1-1110-16,87.45,18,PHYS,1110,16,Engineering - Undetermined
-809492,2221,Niven,Duer,123.0,2003-10-09,0.0,3.12,63632222.0,General Biology 2,EBIO-1-1220-3,86.93,19,EBIO,1220,3,Philosophy
-557470,2221,Normie,Elphee,131.0,2001-08-26,0.0,3.66,,,,,21,,,,"Biological Sci-EPO,Concur Deg"
-271306,2221,Birdie,Jurkiewicz,140.0,1999-01-31,0.0,4.0,,,,,23,,,,Accounting
-133521,2221,Rishi,Patil,105.0,2001-09-14,1.0,4.0,,,,,21,,,,"Aerospace Engr Sci, Concur Deg"
-986002,2221,Jaimie,Kemmish,122.0,2000-12-01,1.0,4.0,,,,,21,,,,Political Science
-768882,2221,Glenn,Petrovic,122.0,2004-03-16,0.0,3.48,99318055.0,General Physics 1,PHYS-1-1110-16,90.09,18,PHYS,1110,16,Humanities Concurr Deg
-631631,2221,Abbie,Joscelin,118.0,2001-11-11,0.0,3.87,,,,,21,,,,Composition
-208113,2221,Rubin,Ashplant,104.0,2003-09-28,0.0,2.75,,,,,19,,,,Information Science
-948790,2221,Madonna,Butter,120.0,2000-03-30,0.0,3.35,44936243.0,General Biology 1,EBIO-1-1210-10,83.86,22,EBIO,1210,10,Engineering Phys & Business
-539289,2221,Antonietta,Edden,141.0,2003-02-26,0.0,2.57,,,,,19,,,,Music - Undetermined
-900033,2221,Felizio,Abramzon,102.0,2002-06-10,1.0,4.0,,,,,20,,,,"Electrical Engr, Concur Degree"
-195880,2221,Kavi,Choudhary,135.0,2004-03-26,0.0,3.37,64402218.0,General Biology 1,EBIO-1-1210-10,79.43,18,EBIO,1210,10,Journalism - Open Option
-195880,2221,Kavi,Choudhary,135.0,2004-03-26,0.0,3.37,76295640.0,General Chemistry 1,CHEM-1-1113-21,84.99,18,CHEM,1113,21,Journalism - Open Option
-265354,2221,Dorotea,Macak,108.0,2003-10-18,0.0,2.77,13707188.0,General Chemistry 1,CHEM-1-1113-21,91.73,19,CHEM,1113,21,Statistics and Data Science
-265354,2221,Dorotea,Macak,108.0,2003-10-18,0.0,2.77,91545502.0,General Physics 1,PHYS-1-1110-15,94.56,19,PHYS,1110,15,Statistics and Data Science
-849568,2221,Annice,Essex,130.0,1998-10-15,1.0,4.0,,,,,24,,,,String Performance
-528084,2221,Katinka,Dimanche,111.0,2002-01-01,0.0,3.36,,,,,20,,,,Musicology
-981668,2221,Richie,Kingshott,95.0,2002-07-24,0.0,2.14,,,,,20,,,,Ecology & Evolutionary Biology
-500179,2221,Buckie,Rheam,127.0,2002-02-03,0.0,4.0,,,,,20,,,,"Systems, Concurrent Degree"
-740772,2221,Sheila,Inmett,107.0,2001-04-09,0.0,2.62,,,,,21,,,,Envir/Civ Engineering Conc Deg
-786812,2221,Gusty,Joselovitch,109.0,2002-09-30,0.0,4.0,,,,,20,,,,Information Systems
-748364,2221,Merridie,Burnhard,98.0,1998-04-18,0.0,3.44,,,,,24,,,,Chinese - Concurrent Degree
-729552,2221,Cherish,Aitcheson,139.0,2003-12-03,0.0,4.0,44304531.0,General Biology 1,EBIO-1-1210-11,93.96,18,EBIO,1210,11,"Economics, Concurrent Degree"
-905143,2221,Gisela,Malsher,140.0,2000-07-04,1.0,3.46,,,,,22,,,,Provisional Admit
-313891,2221,Darby,Allard,117.0,2004-04-30,0.0,4.0,,,,,18,,,,Business Analytics
-618885,2221,Serge,Fermin,123.0,2004-01-20,0.0,4.0,,,,,18,,,,Chem & Biol Engr Concur Deg
-698605,2221,Dominique,Kyndred,95.0,1999-02-06,1.0,3.83,,,,,23,,,,Mechanical Engineering & Bus
-789476,2221,Carlyle,Prujean,119.0,1998-09-24,0.0,2.41,67208610.0,General Biology 2,EBIO-1-1220-3,71.89,24,EBIO,1220,3,Public Relations & Business
-610331,2221,Portie,Le Grys,117.0,2000-09-01,1.0,3.75,31208580.0,General Biology 2,EBIO-1-1220-3,65.14,22,EBIO,1220,3,Organization Management
-672546,2221,Toma,Planks,133.0,1998-05-02,0.0,2.99,77990583.0,General Biology 1,EBIO-1-1210-11,83.61,24,EBIO,1210,11,Open Option
-672546,2221,Toma,Planks,133.0,1998-05-02,0.0,2.99,50453876.0,General Chemistry 1,CHEM-1-1113-21,84.05,24,CHEM,1113,21,Open Option
-672546,2221,Toma,Planks,133.0,1998-05-02,0.0,2.99,79974460.0,General Physics 1,PHYS-1-1110-16,92.2,24,PHYS,1110,16,Open Option
-287254,2221,Caterina,Bullas,137.0,2000-10-02,0.0,3.92,,,,,22,,,,Religious Studies
-295972,2221,Atlanta,Fretter,138.0,2000-05-05,0.0,2.61,79883934.0,General Biology 2,EBIO-1-1220-3,60.91,22,EBIO,1220,3,Music & Business
-437005,2221,Olwen,Beveredge,135.0,1999-09-14,0.0,2.15,30725669.0,General Biology 2,EBIO-1-1220-1,68.52,23,EBIO,1220,1,Religious Studies
-197853,2221,Odelle,Meni,136.0,1999-06-14,0.0,4.0,52405021.0,General Biology 1,EBIO-1-1210-10,82.09,23,EBIO,1210,10,English
-741056,2221,Kaylil,Fozzard,116.0,1999-10-14,0.0,4.0,70231507.0,General Biology 2,EBIO-1-1220-3,79.69,23,EBIO,1220,3,Piano Performance
-821625,2221,Ellswerth,Bromidge,117.0,2002-10-24,0.0,4.0,98593765.0,General Biology 1,EBIO-1-1210-10,90.18,20,EBIO,1210,10,Architectural Engineering
-770739,2221,Theo,Comben,118.0,2001-10-24,0.0,2.93,,,,,21,,,,Interdisciplinary Studies
-877525,2221,Portia,McCaughey,111.0,2003-12-13,0.0,2.35,50420571.0,General Biology 2,EBIO-1-1220-1,84.21,18,EBIO,1220,1,"Information Systems, Conc Degr"
-508073,2221,Karil,Birkmyr,126.0,2002-02-27,0.0,2.9,13572167.0,General Biology 2,EBIO-1-1220-3,94.16,20,EBIO,1220,3,"Information Systems, Conc Degr"
-742006,2221,Virgil,McPaik,105.0,2003-05-16,0.0,1.95,,,,,19,,,,Media Studies
-597355,2221,Yin,Pham,107.0,2003-03-07,0.0,3.04,,,,,19,,,,News - Editorial & Business
-341519,2221,Gavra,Hopkyns,113.0,2003-03-15,0.0,4.0,,,,,19,,,,African & Middle East Studies
-507062,2221,Juditha,Callington,131.0,2002-03-28,0.0,1.28,41067587.0,General Biology 1,EBIO-1-1210-11,82.95,20,EBIO,1210,11,Elec Engr & Computer Sci
-912666,2221,Tiffie,Malimoe,98.0,2002-08-03,0.0,3.1,,,,,20,,,,Jewish Studies
-396506,2221,Aristotle,McCerery,93.0,1998-02-01,1.0,2.18,,,,,24,,,,Mechanical Engineering & Bus
-340243,2221,Petronella,MacGovern,97.0,1998-05-20,0.0,3.13,,,,,24,,,,Spanish
-503392,2221,Emelyne,Buggs,139.0,2002-02-16,0.0,4.0,,,,,20,,,,Accounting-Concurrent Degree
-981405,2221,Carree,Benzi,102.0,2001-01-26,0.0,3.7,,,,,21,,,,Public Relations & Business
-407867,2221,Lennie,Burdytt,93.0,2004-01-11,0.0,3.61,,,,,18,,,,Biological Sciences-MCD
-100924,2221,Munmro,Shuxsmith,109.0,2002-08-04,0.0,2.63,33580145.0,General Biology 1,EBIO-1-1210-11,75.88,20,EBIO,1210,11,Classical Antiquity
-100924,2221,Munmro,Shuxsmith,109.0,2002-08-04,0.0,2.63,88796458.0,General Chemistry 1,CHEM-1-1113-22,78.97,20,CHEM,1113,22,Classical Antiquity
-281850,2221,Shelia,Seldner,141.0,2003-09-02,0.0,4.0,58666432.0,General Biology 2,EBIO-1-1220-1,62.95,19,EBIO,1220,1,Linguistics;French
-281850,2221,Shelia,Seldner,141.0,2003-09-02,0.0,4.0,58666432.0,General Biology 2,EBIO-1-1220-1,62.95,19,EBIO,1220,1,Linguistics;French
-281850,2221,Shelia,Seldner,141.0,2003-09-02,0.0,4.0,58666432.0,General Biology 2,EBIO-1-1220-1,62.95,19,EBIO,1220,1,Linguistics;French
-281850,2221,Shelia,Seldner,141.0,2003-09-02,0.0,4.0,58666432.0,General Biology 2,EBIO-1-1220-1,62.95,19,EBIO,1220,1,Linguistics;French
-282075,2221,Sankar,Gadhavi,114.0,1998-09-13,0.0,4.0,,,,,24,,,,Woodwind Performance
-473651,2221,Umeko,Kenealy,124.0,2003-07-01,0.0,4.0,92918515.0,General Biology 1,EBIO-1-1210-11,74.25,19,EBIO,1210,11,Office Administration
-626402,2221,Goober,Beckles,110.0,2001-05-07,0.0,2.74,,,,,21,,,,Environmental Design & Bus
-848689,2221,Ferne,Kirckman,99.0,2000-01-30,0.0,3.23,66588206.0,General Physics 1,PHYS-1-1110-15,93.32,22,PHYS,1110,15,Music - Undetermined
-807871,2221,Oralie,Nannini,98.0,1999-08-06,0.0,4.0,,,,,23,,,,French
-354935,2221,Alvy,Ziemens,136.0,2003-09-01,0.0,4.0,,,,,19,,,,Environmental Design
-590688,2221,Alyss,Ackwood,139.0,1999-10-25,0.0,4.0,,,,,23,,,,"Geography;Physics, Concurrent Degree"
-590688,2221,Alyss,Ackwood,139.0,1999-10-25,0.0,4.0,,,,,23,,,,"Geography;Physics, Concurrent Degree"
-590688,2221,Alyss,Ackwood,139.0,1999-10-25,0.0,4.0,,,,,23,,,,"Geography;Physics, Concurrent Degree"
-590688,2221,Alyss,Ackwood,139.0,1999-10-25,0.0,4.0,,,,,23,,,,"Geography;Physics, Concurrent Degree"
-510845,2221,Prakash,Kuroda,110.0,2004-05-28,1.0,4.0,62686575.0,General Biology 1,EBIO-1-1210-10,75.53,18,EBIO,1210,10,Performance
-416077,2221,Anant,Rao,128.0,2000-11-10,0.0,3.81,71987402.0,General Chemistry 1,CHEM-1-1113-21,89.57,22,CHEM,1113,21,Business - Undetermined
-982674,2221,Romola,Merill,94.0,2003-01-30,1.0,3.58,,,,,19,,,,Elementary Education
-265877,2221,Deborah,MacRory,135.0,1999-12-24,0.0,3.62,87044258.0,General Physics 1,PHYS-1-1110-16,89.79,22,PHYS,1110,16,Real Estate
-436476,2221,Hamil,Niese,141.0,1999-03-27,1.0,4.0,,,,,23,,,,"Biological Sci-EPO,Concur Deg"
-224980,2221,Averil,Stapleton,119.0,2001-06-02,1.0,3.47,49590198.0,General Biology 1,EBIO-1-1210-10,81.44,21,EBIO,1210,10,Environmental Prod of Design
-224980,2221,Averil,Stapleton,119.0,2001-06-02,1.0,3.47,45056488.0,General Chemistry 1,CHEM-1-1113-21,87.24,21,CHEM,1113,21,Environmental Prod of Design
-886234,2221,Bev,Topping,122.0,1999-03-30,0.0,2.05,,,,,23,,,,Engineering Phys & Business
-689046,2221,Monti,Woltman,98.0,1999-07-16,0.0,3.4,,,,,23,,,,Accounting-Concurrent Degree
-857882,2221,Cordell,Bolger,110.0,2001-09-14,0.0,2.01,46113725.0,General Chemistry 1,CHEM-1-1113-21,64.55,21,CHEM,1113,21,Computer Science
-830143,2221,Cymbre,Almak,132.0,2000-07-26,0.0,4.0,,,,,22,,,,Environmental Prod of Design
-450147,2221,Ben,Valenta,142.0,2002-01-13,0.0,3.71,53931402.0,General Biology 1,EBIO-1-1210-11,81.21,20,EBIO,1210,11,American Studies
-688963,2221,Jean,Montier,96.0,2002-10-31,0.0,4.0,,,,,20,,,,Office Administration
-267871,2221,Seamus,MacAlpin,94.0,2002-01-13,0.0,2.07,19086078.0,General Physics 1,PHYS-1-1110-16,84.87,20,PHYS,1110,16,Music Education
-606658,2221,Novelia,Purkis,126.0,2002-08-14,0.0,4.0,,,,,20,,,,Piano Performance
-557260,2221,Davon,Tilliard,115.0,2002-12-10,0.0,3.53,,,,,19,,,,Public Relations
-842280,2221,Prabodh,Sharma,135.0,2002-02-26,0.0,2.35,,,,,20,,,,Atmospheric & Oceanic Sciences
-844991,2221,Midge,Glover,132.0,2001-04-01,0.0,2.68,27706585.0,General Biology 1,EBIO-1-1210-11,85.16,21,EBIO,1210,11,Religious Studies Concurr Deg
-961655,2221,Mikaela,Dany,123.0,2004-01-31,0.0,3.57,45381591.0,General Physics 1,PHYS-1-1110-16,82.21,18,PHYS,1110,16,Theatre
-942350,2221,Godard,Librey,138.0,2003-08-18,0.0,4.0,,,,,19,,,,Journalism - Open Option
-595761,2221,Gamaliel,Kennally,134.0,2002-06-01,0.0,3.41,,,,,20,,,,Individually Structured
-161195,2221,Kitty,Fowls,97.0,2002-12-02,0.0,2.5,,,,,19,,,,Eng Physics/Physics Concur Deg
-407606,2221,Brody,Kinneir,101.0,2000-03-02,0.0,2.34,,,,,22,,,,Pharmacy
-861684,2221,Sydney,Colmore,138.0,2003-03-23,0.0,3.75,,,,,19,,,,News - Editorial & Business
-283759,2221,Wandis,Normanton,91.0,2001-04-12,0.0,4.0,,,,,21,,,,Pre-Journalism & Mass Comm
-811156,2221,Jarrett,Arents,107.0,1999-12-20,1.0,3.96,,,,,22,,,,Landscape Architecture
-934395,2221,Indira,Ascough,93.0,2001-10-09,1.0,4.0,,,,,21,,,,Civil Engineering & Business
-836340,2221,Kelcie,Poser,129.0,2001-12-12,0.0,2.63,16242308.0,General Physics 1,PHYS-1-1110-16,83.71,20,PHYS,1110,16,Business - Open Option
-241328,2221,Pammie,Looney,120.0,2003-12-20,0.0,4.0,,,,,18,,,,Astronomy
-452889,2221,Armando,Rainer,138.0,2000-12-30,0.0,3.89,29494848.0,General Biology 1,EBIO-1-1210-11,86.8,21,EBIO,1210,11,Humanities Concurr Deg
-955910,2221,Borden,Ellit,126.0,2004-05-05,0.0,3.53,,,,,18,,,,Atmospheric & Oceanic Sciences
-893671,2221,Reginauld,Deeney,97.0,2003-07-26,0.0,3.94,,,,,19,,,,Pre-Business
-258545,2221,Gill,Robken,122.0,2000-08-27,0.0,4.0,,,,,22,,,,Humanities Concurr Deg
-276702,2221,Reiko,Richardon,99.0,2000-07-23,0.0,4.0,,,,,22,,,,Electrical Engineering
-602747,2221,Luci,Golton,132.0,1998-07-10,1.0,2.96,14297994.0,General Physics 1,PHYS-1-1110-16,95.07,24,PHYS,1110,16,Integrative Physiology-Con Deg
-613804,2221,Wake,Crinidge,92.0,2002-03-07,0.0,4.0,,,,,20,,,,Film Studies Concurr Degree
-859443,2221,Inna,Tremoulet,140.0,1998-07-28,0.0,3.88,,,,,24,,,,Pre-Economics
-384628,2221,Michail,Enzley,112.0,2001-03-14,0.0,3.78,77033020.0,General Biology 1,EBIO-1-1210-10,91.43,21,EBIO,1210,10,Neuroscience;Biology
-384628,2221,Michail,Enzley,112.0,2001-03-14,0.0,3.78,77033020.0,General Biology 1,EBIO-1-1210-10,91.43,21,EBIO,1210,10,Neuroscience;Biology
-384628,2221,Michail,Enzley,112.0,2001-03-14,0.0,3.78,62637135.0,General Chemistry 1,CHEM-1-1113-21,72.66,21,CHEM,1113,21,Neuroscience;Biology
-384628,2221,Michail,Enzley,112.0,2001-03-14,0.0,3.78,62637135.0,General Chemistry 1,CHEM-1-1113-21,72.66,21,CHEM,1113,21,Neuroscience;Biology
-384628,2221,Michail,Enzley,112.0,2001-03-14,0.0,3.78,77033020.0,General Biology 1,EBIO-1-1210-10,91.43,21,EBIO,1210,10,Neuroscience;Biology
-384628,2221,Michail,Enzley,112.0,2001-03-14,0.0,3.78,77033020.0,General Biology 1,EBIO-1-1210-10,91.43,21,EBIO,1210,10,Neuroscience;Biology
-384628,2221,Michail,Enzley,112.0,2001-03-14,0.0,3.78,62637135.0,General Chemistry 1,CHEM-1-1113-21,72.66,21,CHEM,1113,21,Neuroscience;Biology
-384628,2221,Michail,Enzley,112.0,2001-03-14,0.0,3.78,62637135.0,General Chemistry 1,CHEM-1-1113-21,72.66,21,CHEM,1113,21,Neuroscience;Biology
-886544,2221,Kassandra,Wilcox,114.0,2001-11-22,0.0,2.76,,,,,20,,,,Electrical Engineering
-497777,2221,Emma,Howie,117.0,2001-01-26,0.0,2.53,,,,,21,,,,Public Relations & Business
-315688,2221,David,Korlat,134.0,2002-06-23,0.0,2.29,39080615.0,General Biology 1,EBIO-1-1210-11,82.43,20,EBIO,1210,11,Russian Studies
-826757,2221,Xena,Asquith,124.0,1999-03-31,0.0,4.0,27886473.0,General Biology 2,EBIO-1-1220-3,84.0,23,EBIO,1220,3,Chem & Biol Engr Concur Deg
-713087,2221,Nathan,Semken,129.0,2000-08-20,0.0,3.12,,,,,22,,,,"Biological Sci-EPO,Concur Deg"
-530502,2221,Sonja,Penylton,107.0,2004-02-21,0.0,2.01,54458732.0,General Chemistry 1,CHEM-1-1113-21,79.61,18,CHEM,1113,21,Classical Antiquity
-844228,2221,Page,Golton,99.0,2001-06-01,0.0,3.8,,,,,21,,,,Pre-Business
-193819,2221,Brnaba,Kibbel,116.0,2002-07-07,0.0,2.25,,,,,20,,,,Jazz Piano Performance
-377016,2221,Sidonnie,Barney,135.0,1998-02-06,0.0,3.49,,,,,24,,,,Music Education
-916040,2221,Jorry,Kneel,123.0,1998-02-06,0.0,4.0,,,,,24,,,,Piano Performance
-960537,2221,Alic,Thornthwaite,112.0,1998-06-06,0.0,3.5,,,,,24,,,,Transport/Distribution Mgt
-860087,2221,Truda,Elders,114.0,2001-01-22,0.0,3.11,74679770.0,General Chemistry 1,CHEM-1-1113-21,76.04,21,CHEM,1113,21,Fine Arts - Studio Arts
-736045,2221,Mitzi,Moscon,137.0,2002-01-01,0.0,4.0,,,,,20,,,,Fine Arts - Studio Arts
-787251,2221,Vlad,Sprason,94.0,1998-10-08,1.0,2.82,,,,,24,,,,Jazz Piano Performance
-697313,2221,Dori,Sergent,114.0,2002-02-03,0.0,3.1,,,,,20,,,,Information Science
-601291,2221,Rozanne,Althrope,139.0,2001-09-18,0.0,4.0,,,,,21,,,,Personnel-Human Resources Mgt
-675753,2221,Clem,Cowdroy,129.0,2002-11-04,1.0,3.75,,,,,20,,,,Open Option
-457305,2221,Kelley,Wand,104.0,2002-02-22,0.0,3.61,,,,,20,,,,German Studies
-726436,2221,Kort,Huton,104.0,2002-07-27,0.0,2.1,,,,,20,,,,Brass/Percussion Performance
-286263,2221,Antoni,Tydd,112.0,2004-04-20,0.0,2.35,,,,,18,,,,Environmental Engineering
-247264,2221,Shannon,Storks,107.0,1999-02-22,0.0,3.98,26212755.0,General Biology 2,EBIO-1-1220-3,69.53,23,EBIO,1220,3,Pre-Business
-365036,2221,Pansy,Loveitt,142.0,2002-08-24,0.0,3.16,68756732.0,General Biology 1,EBIO-1-1210-11,83.17,20,EBIO,1210,11,Cinema Stds/Moving Image Arts
-365036,2221,Pansy,Loveitt,142.0,2002-08-24,0.0,3.16,34809253.0,General Physics 1,PHYS-1-1110-16,83.16,20,PHYS,1110,16,Cinema Stds/Moving Image Arts
-521541,2221,Ellerey,Quarry,132.0,2003-01-13,0.0,3.37,31208729.0,General Chemistry 1,CHEM-1-1113-22,77.67,19,CHEM,1113,22,Sociology
-615961,2221,Candide,Innett,121.0,2003-04-30,0.0,3.62,72136995.0,General Chemistry 1,CHEM-1-1113-21,85.79,19,CHEM,1113,21,Art History
-824076,2221,Lorelle,Coulman,133.0,2003-11-03,0.0,2.48,76894344.0,General Chemistry 1,CHEM-1-1113-22,80.91,19,CHEM,1113,22,Architecture
-613958,2221,Etheline,Noonan,138.0,1999-01-14,0.0,2.1,,,,,23,,,,Statistics and Data Science
-480279,2221,Law,Lewsley,93.0,1998-08-28,0.0,3.64,,,,,24,,,,Real Estate
-706582,2221,Powell,Shegog,124.0,1999-11-11,0.0,3.34,,,,,23,,,,Public Relations & Business
-852337,2221,Cacilia,Pates,115.0,2003-07-21,1.0,3.6,46755863.0,General Chemistry 1,CHEM-1-1113-22,75.13,19,CHEM,1113,22,Philosophy
-917070,2221,Wallas,Blandamore,94.0,2000-01-05,1.0,2.61,,,,,22,,,,Musicology
-896386,2221,Bernie,Hardaway,113.0,1998-10-17,0.0,3.56,59572410.0,General Biology 1,EBIO-1-1210-10,92.95,24,EBIO,1210,10,"Electrical Engr, Concur Degree"
-987018,2221,Jolee,Mushrow,111.0,2000-03-28,0.0,3.91,,,,,22,,,,"Physics, Concurrent Degree"
-401591,2221,Bobbye,Cohen,139.0,2004-01-04,0.0,3.86,65164548.0,General Biology 1,EBIO-1-1210-11,77.12,18,EBIO,1210,11,News - Editorial
-401591,2221,Bobbye,Cohen,139.0,2004-01-04,0.0,3.86,23304827.0,General Chemistry 1,CHEM-1-1113-21,89.98,18,CHEM,1113,21,News - Editorial
-563368,2221,Thornie,Mitkcov,142.0,2002-01-26,1.0,2.77,,,,,20,,,,International Business
-619170,2221,Mawar,Nguyen,104.0,2001-10-12,0.0,4.0,,,,,21,,,,Kinesiology
-304067,2221,Brittne,Starbucke,123.0,2002-10-24,1.0,4.0,,,,,20,,,,Theatre
-190000,2221,Magnum,Aldcorne,141.0,1998-06-07,0.0,3.58,,,,,24,,,,Performance
-765010,2221,Shelbi,McLleese,111.0,1998-07-14,0.0,4.0,,,,,24,,,,Minerals Land Management
-758870,2221,Emmalyn,Mullen,125.0,2002-03-28,0.0,2.45,10304181.0,General Chemistry 1,CHEM-1-1113-21,76.62,20,CHEM,1113,21,Physics for Secondary Schools
-834893,2221,Frankie,Fandrey,102.0,2000-05-12,1.0,2.97,,,,,22,,,,Fine Arts - Art Education
-540842,2221,Rubina,McCurlye,137.0,2001-07-17,1.0,2.05,83779201.0,General Chemistry 1,CHEM-1-1113-22,93.85,21,CHEM,1113,22,Journalism - Undetermined
-546841,2221,Quyen,Wattana,97.0,1999-09-16,1.0,4.0,78539481.0,General Biology 1,EBIO-1-1210-10,65.29,23,EBIO,1210,10,Economics
-504838,2221,Drusi,Handover,122.0,1999-02-06,1.0,3.62,40987078.0,General Biology 2,EBIO-1-1220-3,55.29,23,EBIO,1220,3,Aerospace Engineering Sciences
-660664,2221,Adelle,Niles,127.0,1998-01-04,0.0,4.0,,,,,24,,,,Mathematics
-116242,2221,Cyndy,Dawidowsky,116.0,1998-09-18,1.0,2.37,,,,,24,,,,Personnel-Human Resources Mgt
-792859,2221,Elvin,Deguara,115.0,2001-10-15,0.0,3.78,55623374.0,General Physics 1,PHYS-1-1110-16,88.66,21,PHYS,1110,16,Electrical Engineering
-716325,2221,Belia,Czajkowska,134.0,2003-03-10,0.0,2.76,,,,,19,,,,Environmental Design & Bus
-269158,2221,Lynette,Robottham,127.0,1998-06-14,0.0,2.78,,,,,24,,,,Information Systems
-545384,2221,Robers,Sandwich,120.0,2000-05-16,0.0,3.54,17782294.0,General Chemistry 1,CHEM-1-1113-22,75.02,22,CHEM,1113,22,Personnel-Human Resources Mgt
-631296,2221,Mariele,Mouan,133.0,1998-11-30,0.0,2.82,65092176.0,General Biology 1,EBIO-1-1210-10,90.64,23,EBIO,1210,10,Environmental Design
-631296,2221,Mariele,Mouan,133.0,1998-11-30,0.0,2.82,85724743.0,General Chemistry 1,CHEM-1-1113-22,78.02,23,CHEM,1113,22,Environmental Design
-629694,2221,Keely,Gumly,106.0,2003-07-24,0.0,3.19,,,,,19,,,,Advertising
-114604,2221,Tabor,Pfleger,134.0,1999-01-24,1.0,4.0,62616427.0,General Biology 1,EBIO-1-1210-10,92.78,23,EBIO,1210,10,Composition
-730181,2221,Blinnie,Fairbourn,91.0,2000-03-27,0.0,3.87,,,,,22,,,,Chinese - Concurrent Degree
-402277,2221,Sadye,Bredbury,140.0,2002-03-22,0.0,3.72,,,,,20,,,,"Mathematics, Concurrent Degree"
-514433,2221,Rahel,Edge,134.0,2002-01-22,0.0,2.94,54240180.0,General Physics 1,PHYS-1-1110-15,89.04,20,PHYS,1110,15,Business - Undetermined
-377983,2221,Hildagarde,Thebeau,101.0,2004-02-21,0.0,3.65,35777027.0,General Biology 1,EBIO-1-1210-11,94.3,18,EBIO,1210,11,Systems
-772510,2221,Germain,Peagram,103.0,2001-09-19,0.0,3.95,,,,,21,,,,Communication
-439617,2221,Betteann,Aizkovitch,115.0,2003-12-12,0.0,4.0,,,,,18,,,,Russian Studies
-301422,2221,Blondy,Shanklin,123.0,2002-09-13,1.0,2.0,,,,,20,,,,Undergrad Initial Statistics
-133414,2221,Poppy,Surgeon,92.0,2004-02-29,0.0,3.87,,,,,18,,,,Environmental Design & Bus
-592920,2221,Dodie,Leddie,131.0,2002-09-28,0.0,3.93,,,,,20,,,,Biomedical Engineering
-738627,2221,Shaylah,Vick,142.0,2000-11-17,0.0,4.0,48227457.0,General Biology 2,EBIO-1-1220-1,86.76,22,EBIO,1220,1,Integrated Design Engineering
-262173,2221,Jania,Jowett,103.0,2003-07-18,0.0,3.13,13328422.0,General Biology 1,EBIO-1-1210-11,100.0,19,EBIO,1210,11,Architectural Engineering
-262173,2221,Jania,Jowett,103.0,2003-07-18,0.0,3.13,70384313.0,General Chemistry 1,CHEM-1-1113-21,78.38,19,CHEM,1113,21,Architectural Engineering
-735586,2221,Oriana,Ramirez,92.0,1998-01-28,0.0,3.9,,,,,24,,,,Small Bus Mgt & Entrprnship;Accounting
-735586,2221,Oriana,Ramirez,92.0,1998-01-28,0.0,3.9,,,,,24,,,,Small Bus Mgt & Entrprnship;Accounting
-735586,2221,Oriana,Ramirez,92.0,1998-01-28,0.0,3.9,,,,,24,,,,Small Bus Mgt & Entrprnship;Accounting
-735586,2221,Oriana,Ramirez,92.0,1998-01-28,0.0,3.9,,,,,24,,,,Small Bus Mgt & Entrprnship;Accounting
-977538,2221,Arleta,Gaddie,137.0,2002-12-24,1.0,4.0,87624981.0,General Chemistry 1,CHEM-1-1113-21,83.68,19,CHEM,1113,21,Theatre
-851042,2221,Ginelle,Morden,112.0,1998-10-10,0.0,3.82,,,,,24,,,,Physics
-630019,2221,Fredrick,Gardiner,103.0,1999-12-09,0.0,4.0,,,,,22,,,,"French, Concurrent Degree"
-588620,2221,Juanita,Fernandez,95.0,1999-10-09,0.0,2.29,,,,,23,,,,Chemistry
-735315,2221,Dalis,Mearing,136.0,2003-09-03,0.0,3.07,,,,,19,,,,Engineering Physics
-221227,2221,Pippo,Mary,125.0,2000-03-12,0.0,3.27,,,,,22,,,,American Studies
-667704,2221,Lolita,Abramow,110.0,2000-07-14,1.0,3.1,30830484.0,General Biology 1,EBIO-1-1210-11,92.69,22,EBIO,1210,11,Minerals Land Management
-991232,2221,Prudy,Dehn,120.0,2000-04-23,0.0,3.07,,,,,22,,,,Accounting-Concurrent Degree
-722279,2221,Broderick,Headon,124.0,1998-09-30,0.0,2.66,,,,,24,,,,Architectural Engineering
-929365,2221,Jacenta,Iacopo,126.0,1999-03-02,0.0,2.43,,,,,23,,,,Chemical Engineering
-801984,2221,Raddie,Pleat,130.0,2000-04-04,1.0,3.62,28106123.0,General Biology 2,EBIO-1-1220-1,90.4,22,EBIO,1220,1,International Affairs
-324085,2221,Bonita,Gianelli,113.0,2003-05-06,1.0,4.0,,,,,19,,,,"Computer Sci, Concurrent Degr"
-228290,2221,Berty,Missen,137.0,2002-12-16,0.0,4.0,,,,,19,,,,Business - Open Option
-852624,2221,Blake,Clendening,136.0,2002-05-30,1.0,3.6,,,,,20,,,,Applied Mathematics
-783301,2221,Amalle,Housbey,92.0,2002-10-06,0.0,3.18,,,,,20,,,,"Civil Engr, Concurrent Degree"
-984635,2221,Nels,Ligerton,108.0,2001-06-02,0.0,2.51,,,,,21,,,,Musical Theatre
-311192,2221,Bibiana,Espino,134.0,2000-04-15,0.0,2.72,69066523.0,General Biology 1,EBIO-1-1210-11,71.45,22,EBIO,1210,11,Journalism - Undetermined
-460986,2221,Tatiania,Kohn,136.0,2000-07-23,0.0,3.28,,,,,22,,,,Physics for Secondary Schools
-265019,2221,Lucy,Sinnie,104.0,1999-05-26,0.0,4.0,,,,,23,,,,Anthropology
-238606,2221,Sholom,Kinman,102.0,2000-09-15,0.0,4.0,22333544.0,General Chemistry 1,CHEM-1-1113-21,73.27,22,CHEM,1113,21,Leadership/CommunityEngagement
-441711,2221,Shana,Forker,92.0,2002-09-03,1.0,2.92,,,,,20,,,,Chemical & Biological Engr
-978598,2221,Winonah,Salzen,119.0,2001-08-22,0.0,2.91,,,,,21,,,,Provisional Admit
-735963,2221,Elsinore,Dight,113.0,2002-04-20,0.0,4.0,,,,,20,,,,Women and Gender Studies
-443637,2221,Obidiah,Owlner,142.0,2001-09-13,0.0,4.0,,,,,21,,,,Astronomy
-358560,2221,Page,Shilito,93.0,2004-03-15,0.0,4.0,,,,,18,,,,Communication
-223807,2221,Osmond,Dunphie,106.0,2003-10-14,0.0,2.72,,,,,19,,,,Latin
-735517,2221,Bjorn,Furmagier,129.0,2001-11-06,0.0,3.89,,,,,21,,,,Engineering - Undetermined
-225914,2221,Irv,Abrahamowitcz,119.0,2001-12-25,1.0,3.47,,,,,20,,,,Piano Performance
-815185,2221,Orin,Canton,95.0,2001-01-16,0.0,3.96,40079916.0,General Biology 1,EBIO-1-1210-11,62.5,21,EBIO,1210,11,Jewish Studies
-130381,2221,Angelico,Adriani,138.0,2003-05-20,1.0,3.96,,,,,19,,,,Finance-Concurrent Degree
-673782,2221,Jilli,Euels,115.0,2000-06-22,0.0,2.45,,,,,22,,,,"Computer Sci, Concurrent Degr"
-214908,2221,Aldon,Kensitt,118.0,2003-06-05,1.0,2.73,,,,,19,,,,Accounting
-544736,2221,Sonja,Fradgley,109.0,2002-09-04,0.0,2.25,,,,,20,,,,Journalism - Open Option
-306649,2221,Meaghan,Lush,95.0,2002-08-14,1.0,2.77,63314913.0,General Biology 1,EBIO-1-1210-11,68.88,20,EBIO,1210,11,Comm Disorders & Speech Sci
-340426,2221,Dacie,Rack,118.0,2004-04-12,1.0,4.0,,,,,18,,,,Electrical & Comp Engineering
-708465,2221,Jerry,Hawkwood,116.0,2002-12-15,0.0,2.5,14699682.0,General Biology 1,EBIO-1-1210-11,92.18,19,EBIO,1210,11,Biological Sciences-MCD
-247841,2221,Eachelle,Ableson,128.0,2002-11-10,0.0,2.08,,,,,20,,,,Italian
-819175,2221,Kellby,Fitzsimons,116.0,1999-08-01,0.0,4.0,,,,,23,,,,Aerospace Engineering & Bus
-776450,2221,Dill,Clemendot,133.0,1999-04-28,1.0,4.0,19752229.0,General Biology 1,EBIO-1-1210-10,85.41,23,EBIO,1210,10,Design Studies
-776450,2221,Dill,Clemendot,133.0,1999-04-28,1.0,4.0,60909345.0,General Chemistry 1,CHEM-1-1113-21,85.43,23,CHEM,1113,21,Design Studies
-624641,2221,Margette,Baggallay,104.0,2001-10-01,0.0,2.72,,,,,21,,,,Design Studies
-628233,2221,Leupold,Wanklyn,95.0,2001-07-21,0.0,2.73,,,,,21,,,,Environmental Design & Bus
-998948,2221,Neilla,Kaes,127.0,1999-04-13,0.0,2.8,,,,,23,,,,French
-437542,2221,Mattheus,Ciccerale,138.0,1998-03-23,0.0,4.0,,,,,24,,,,Anthropology
-783093,2221,Lena,Mossop,141.0,1998-01-18,0.0,2.92,,,,,24,,,,Computer Science & Business
-786438,2221,Findlay,Ludlow,117.0,2002-03-02,0.0,3.26,,,,,20,,,,"Elec & Comp Engr, Concurr Deg"
-953041,2221,Howie,Stallard,106.0,1999-03-26,1.0,2.77,13392571.0,General Biology 1,EBIO-1-1210-11,81.66,23,EBIO,1210,11,Computer Science
-985831,2221,Monah,Pepye,95.0,1999-01-02,0.0,4.0,68145810.0,General Biology 1,EBIO-1-1210-11,85.2,23,EBIO,1210,11,Design Studies
-531126,2221,Fern,Girkins,94.0,2003-08-16,0.0,3.1,,,,,19,,,,Theory
-441668,2221,Sharia,Edelheit,104.0,2001-08-22,1.0,4.0,,,,,21,,,,"Biological Sci-EPO,Concur Deg"
-983922,2221,Demetria,Maier,97.0,1998-01-18,0.0,2.72,44707743.0,General Chemistry 1,CHEM-1-1113-22,79.36,24,CHEM,1113,22,Computer Science Applications
-155867,2221,Germain,Southers,124.0,1999-10-27,0.0,4.0,50094255.0,General Biology 1,EBIO-1-1210-10,89.23,23,EBIO,1210,10,Computer Science
-382107,2221,Meagan,Remmers,127.0,2002-12-31,1.0,4.0,,,,,19,,,,Environmental Conservation
-357151,2221,Arther,Forshaw,107.0,2003-03-10,0.0,4.0,,,,,19,,,,Engineering - Open Option
-974178,2221,Ame,Shooter,136.0,2002-11-17,1.0,3.45,,,,,20,,,,String Performance
-395036,2221,Bartolomeo,Van den Velde,133.0,1998-06-17,0.0,3.84,,,,,24,,,,"Information Systems, Conc Degr"
-909777,2221,Cathlene,Buntin,133.0,2000-04-02,0.0,3.52,96336287.0,General Biology 1,EBIO-1-1210-11,88.29,22,EBIO,1210,11,Physics
-862856,2221,Darcy,Hadlow,115.0,2003-01-10,0.0,2.95,,,,,19,,,,Fine Arts - Art History
-347129,2221,Dela,Durrett,93.0,1998-03-01,0.0,4.0,,,,,24,,,,Jewish Studies
-917322,2221,Lilla,Breissan,103.0,1998-07-07,0.0,2.09,,,,,24,,,,Chemical & Biological Engr
-477288,2221,Latrina,Humm,100.0,1998-12-27,0.0,3.29,,,,,23,,,,News - Editorial & Business
-895485,2221,Gert,Jepperson,129.0,1999-03-18,0.0,2.58,32521071.0,General Biology 1,EBIO-1-1210-10,94.82,23,EBIO,1210,10,Business Analytics
-986104,2221,Hildy,Hazel,107.0,2000-05-28,0.0,3.77,,,,,22,,,,Atmospheric & Oceanic Sciences
-357533,2221,Marylynne,Limpertz,108.0,2002-11-11,0.0,2.2,,,,,20,,,,Information Science
-636787,2221,Terri,Hark,105.0,2000-03-02,0.0,2.1,,,,,22,,,,English
-722667,2221,Judon,Kenson,111.0,1999-02-19,0.0,2.1,,,,,23,,,,Pre-Communication
-853838,2221,Aime,Goundsy,125.0,2002-01-23,0.0,3.16,,,,,20,,,,Jazz Piano Performance
-999803,2221,Ravid,Hewlings,114.0,1998-03-12,0.0,2.79,87851759.0,General Biology 2,EBIO-1-1220-1,78.52,24,EBIO,1220,1,Composition
-624755,2221,Samuele,Pickston,128.0,1998-01-10,1.0,3.02,,,,,24,,,,Biological Sciences-EPO
-265506,2221,Dyanne,Grestie,111.0,1998-02-17,0.0,4.0,94694382.0,General Biology 1,EBIO-1-1210-11,87.44,24,EBIO,1210,11,Environmental Studies
-265506,2221,Dyanne,Grestie,111.0,1998-02-17,0.0,4.0,30826352.0,General Physics 1,PHYS-1-1110-15,71.86,24,PHYS,1110,15,Environmental Studies
-827840,2221,Rhodia,Flores,120.0,1998-02-24,0.0,4.0,84948950.0,General Chemistry 1,CHEM-1-1113-22,81.21,24,CHEM,1113,22,Media Studies
-862092,2221,Baird,Dessent,127.0,2001-04-05,0.0,2.94,,,,,21,,,,Environmental Studies
-131285,2221,Carleton,Abendroth,140.0,2002-04-28,1.0,4.0,23819971.0,General Physics 1,PHYS-1-1110-15,52.25,20,PHYS,1110,15,Broadcast Production
-784245,2221,Kelley,Filewood,104.0,2001-02-05,1.0,3.26,,,,,21,,,,Management
-494638,2221,Eldredge,Bravery,140.0,2000-01-05,0.0,2.76,,,,,22,,,,Eng Physics/Physics Concur Deg
-203284,2221,Maje,Ivanikhin,134.0,2000-01-19,0.0,4.0,,,,,22,,,,Classics
-588855,2221,Hamel,Jovasevic,98.0,2001-08-26,1.0,2.5,,,,,21,,,,"German Studies, Concur Degr"
-773996,2221,Sissy,Timcke,136.0,2002-02-02,0.0,2.53,,,,,20,,,,Open Option
-886327,2221,Averell,Calterone,96.0,2001-12-07,0.0,4.0,,,,,20,,,,Environmental Prod of Design
-741841,2221,Ericha,Iuorio,93.0,2000-04-24,0.0,2.49,,,,,22,,,,Teacher Education Elementary
-113161,2221,Rex,Dormer,117.0,1999-05-11,0.0,4.0,,,,,23,,,,"Physics, Concurrent Degree"
-982333,2221,Alice,Uren,142.0,1998-07-28,0.0,4.0,,,,,24,,,,Latin American Studies
-150535,2221,Lilias,Bullas,131.0,2001-12-19,0.0,4.0,94937972.0,General Physics 1,PHYS-1-1110-15,85.22,20,PHYS,1110,15,Latin American Studies
-975345,2221,Cliff,Boggas,99.0,2001-04-16,1.0,3.71,,,,,21,,,,Geography
-645664,2221,Lyell,Harsent,134.0,2001-10-26,1.0,2.08,39871129.0,General Physics 1,PHYS-1-1110-16,58.56,21,PHYS,1110,16,"Economics, Concurrent Degree"
-941248,2221,Rozele,Gifford,110.0,2001-03-13,0.0,3.16,,,,,21,,,,Spanish
+enrollment_id,term_id,course_title,class_id,grade,student_id,first_name,last_name,credits_earned,date_of_birth,student_employee,gpa,age,course_subject,course_number,course_section,academic_plans
+86175930,2221,General Physics 1,PHYS-1-1110-16,87.45,111967,Whitby,Cattlow,142,12/24/03,1,2.88,18,PHYS,1110,16,Engineering - Undetermined
+63632222,2221,General Biology 2,EBIO-1-1220-3,86.93,809492,Niven,Duer,123,10/9/03,0,3.12,19,EBIO,1220,3,Philosophy
+99318055,2221,General Physics 1,PHYS-1-1110-16,90.09,768882,Glenn,Petrovic,122,3/16/04,0,3.48,18,PHYS,1110,16,Humanities Concurr Deg
+44936243,2221,General Biology 1,EBIO-1-1210-10,83.86,948790,Madonna,Butter,120,3/30/00,0,3.35,22,EBIO,1210,10,Engineering Phys & Business
+64402218,2221,General Biology 1,EBIO-1-1210-10,79.43,195880,Kavi,Choudhary,135,3/26/04,0,3.37,18,EBIO,1210,10,Journalism - Open Option
+76295640,2221,General Chemistry 1,CHEM-1-1113-21,84.99,195880,Kavi,Choudhary,135,3/26/04,0,3.37,18,CHEM,1113,21,Journalism - Open Option
+13707188,2221,General Chemistry 1,CHEM-1-1113-21,91.73,265354,Dorotea,Macak,108,10/18/03,0,2.77,19,CHEM,1113,21,Statistics and Data Science
+91545502,2221,General Physics 1,PHYS-1-1110-15,94.56,265354,Dorotea,Macak,108,10/18/03,0,2.77,19,PHYS,1110,15,Statistics and Data Science
+44304531,2221,General Biology 1,EBIO-1-1210-11,93.96,729552,Cherish,Aitcheson,139,12/3/03,0,4.0,18,EBIO,1210,11,"Economics, Concurrent Degree"
+67208610,2221,General Biology 2,EBIO-1-1220-3,71.89,789476,Carlyle,Prujean,119,9/24/98,0,2.41,24,EBIO,1220,3,Public Relations & Business
+31208580,2221,General Biology 2,EBIO-1-1220-3,65.14,610331,Portie,Le Grys,117,9/1/00,1,3.75,22,EBIO,1220,3,Organization Management
+77990583,2221,General Biology 1,EBIO-1-1210-11,83.61,672546,Toma,Planks,133,5/2/98,0,2.99,24,EBIO,1210,11,Open Option
+50453876,2221,General Chemistry 1,CHEM-1-1113-21,84.05,672546,Toma,Planks,133,5/2/98,0,2.99,24,CHEM,1113,21,Open Option
+79974460,2221,General Physics 1,PHYS-1-1110-16,92.2,672546,Toma,Planks,133,5/2/98,0,2.99,24,PHYS,1110,16,Open Option
+79883934,2221,General Biology 2,EBIO-1-1220-3,60.91,295972,Atlanta,Fretter,138,5/5/00,0,2.61,22,EBIO,1220,3,Music & Business
+30725669,2221,General Biology 2,EBIO-1-1220-1,68.52,437005,Olwen,Beveredge,135,9/14/99,0,2.15,23,EBIO,1220,1,Religious Studies
+52405021,2221,General Biology 1,EBIO-1-1210-10,82.09,197853,Odelle,Meni,136,6/14/99,0,4.0,23,EBIO,1210,10,English
+70231507,2221,General Biology 2,EBIO-1-1220-3,79.69,741056,Kaylil,Fozzard,116,10/14/99,0,4.0,23,EBIO,1220,3,Piano Performance
+98593765,2221,General Biology 1,EBIO-1-1210-10,90.18,821625,Ellswerth,Bromidge,117,10/24/02,0,4.0,20,EBIO,1210,10,Architectural Engineering
+50420571,2221,General Biology 2,EBIO-1-1220-1,84.21,877525,Portia,McCaughey,111,12/13/03,0,2.35,18,EBIO,1220,1,"Information Systems, Conc Degr"
+13572167,2221,General Biology 2,EBIO-1-1220-3,94.16,508073,Karil,Birkmyr,126,2/27/02,0,2.9,20,EBIO,1220,3,"Information Systems, Conc Degr"
+41067587,2221,General Biology 1,EBIO-1-1210-11,82.95,507062,Juditha,Callington,131,3/28/02,0,1.28,20,EBIO,1210,11,Elec Engr & Computer Sci
+33580145,2221,General Biology 1,EBIO-1-1210-11,75.88,100924,Munmro,Shuxsmith,109,8/4/02,0,2.63,20,EBIO,1210,11,Classical Antiquity
+88796458,2221,General Chemistry 1,CHEM-1-1113-22,78.97,100924,Munmro,Shuxsmith,109,8/4/02,0,2.63,20,CHEM,1113,22,Classical Antiquity
+58666432,2221,General Biology 2,EBIO-1-1220-1,62.95,281850,Shelia,Seldner,141,9/2/03,0,4.0,19,EBIO,1220,1,Linguistics;French
+92918515,2221,General Biology 1,EBIO-1-1210-11,74.25,473651,Umeko,Kenealy,124,7/1/03,0,4.0,19,EBIO,1210,11,Office Administration
+66588206,2221,General Physics 1,PHYS-1-1110-15,93.32,848689,Ferne,Kirckman,99,1/30/00,0,3.23,22,PHYS,1110,15,Music - Undetermined
+62686575,2221,General Biology 1,EBIO-1-1210-10,75.53,510845,Prakash,Kuroda,110,5/28/04,1,4.0,18,EBIO,1210,10,Performance
+71987402,2221,General Chemistry 1,CHEM-1-1113-21,89.57,416077,Anant,Rao,128,11/10/00,0,3.81,22,CHEM,1113,21,Business - Undetermined
+87044258,2221,General Physics 1,PHYS-1-1110-16,89.79,265877,Deborah,MacRory,135,12/24/99,0,3.62,22,PHYS,1110,16,Real Estate
+49590198,2221,General Biology 1,EBIO-1-1210-10,81.44,224980,Averil,Stapleton,119,6/2/01,1,3.47,21,EBIO,1210,10,Environmental Prod of Design
+45056488,2221,General Chemistry 1,CHEM-1-1113-21,87.24,224980,Averil,Stapleton,119,6/2/01,1,3.47,21,CHEM,1113,21,Environmental Prod of Design
+46113725,2221,General Chemistry 1,CHEM-1-1113-21,64.55,857882,Cordell,Bolger,110,9/14/01,0,2.01,21,CHEM,1113,21,Computer Science
+53931402,2221,General Biology 1,EBIO-1-1210-11,81.21,450147,Ben,Valenta,142,1/13/02,0,3.71,20,EBIO,1210,11,American Studies
+19086078,2221,General Physics 1,PHYS-1-1110-16,84.87,267871,Seamus,MacAlpin,94,1/13/02,0,2.07,20,PHYS,1110,16,Music Education
+27706585,2221,General Biology 1,EBIO-1-1210-11,85.16,844991,Midge,Glover,132,4/1/01,0,2.68,21,EBIO,1210,11,Religious Studies Concurr Deg
+45381591,2221,General Physics 1,PHYS-1-1110-16,82.21,961655,Mikaela,Dany,123,1/31/04,0,3.57,18,PHYS,1110,16,Theatre
+16242308,2221,General Physics 1,PHYS-1-1110-16,83.71,836340,Kelcie,Poser,129,12/12/01,0,2.63,20,PHYS,1110,16,Business - Open Option
+29494848,2221,General Biology 1,EBIO-1-1210-11,86.8,452889,Armando,Rainer,138,12/30/00,0,3.89,21,EBIO,1210,11,Humanities Concurr Deg
+14297994,2221,General Physics 1,PHYS-1-1110-16,95.07,602747,Luci,Golton,132,7/10/98,1,2.96,24,PHYS,1110,16,Integrative Physiology-Con Deg
+77033020,2221,General Biology 1,EBIO-1-1210-10,91.43,384628,Michail,Enzley,112,3/14/01,0,3.78,21,EBIO,1210,10,Neuroscience;Biology
+62637135,2221,General Chemistry 1,CHEM-1-1113-21,72.66,384628,Michail,Enzley,112,3/14/01,0,3.78,21,CHEM,1113,21,Neuroscience;Biology
+39080615,2221,General Biology 1,EBIO-1-1210-11,82.43,315688,David,Korlat,134,6/23/02,0,2.29,20,EBIO,1210,11,Russian Studies
+27886473,2221,General Biology 2,EBIO-1-1220-3,84.0,826757,Xena,Asquith,124,3/31/99,0,4.0,23,EBIO,1220,3,Chem & Biol Engr Concur Deg
+54458732,2221,General Chemistry 1,CHEM-1-1113-21,79.61,530502,Sonja,Penylton,107,2/21/04,0,2.01,18,CHEM,1113,21,Classical Antiquity
+74679770,2221,General Chemistry 1,CHEM-1-1113-21,76.04,860087,Truda,Elders,114,1/22/01,0,3.11,21,CHEM,1113,21,Fine Arts - Studio Arts
+26212755,2221,General Biology 2,EBIO-1-1220-3,69.53,247264,Shannon,Storks,107,2/22/99,0,3.98,23,EBIO,1220,3,Pre-Business
+68756732,2221,General Biology 1,EBIO-1-1210-11,83.17,365036,Pansy,Loveitt,142,8/24/02,0,3.16,20,EBIO,1210,11,Cinema Stds/Moving Image Arts
+34809253,2221,General Physics 1,PHYS-1-1110-16,83.16,365036,Pansy,Loveitt,142,8/24/02,0,3.16,20,PHYS,1110,16,Cinema Stds/Moving Image Arts
+31208729,2221,General Chemistry 1,CHEM-1-1113-22,77.67,521541,Ellerey,Quarry,132,1/13/03,0,3.37,19,CHEM,1113,22,Sociology
+72136995,2221,General Chemistry 1,CHEM-1-1113-21,85.79,615961,Candide,Innett,121,4/30/03,0,3.62,19,CHEM,1113,21,Art History
+76894344,2221,General Chemistry 1,CHEM-1-1113-22,80.91,824076,Lorelle,Coulman,133,11/3/03,0,2.48,19,CHEM,1113,22,Architecture
+46755863,2221,General Chemistry 1,CHEM-1-1113-22,75.13,852337,Cacilia,Pates,115,7/21/03,1,3.6,19,CHEM,1113,22,Philosophy
+59572410,2221,General Biology 1,EBIO-1-1210-10,92.95,896386,Bernie,Hardaway,113,10/17/98,0,3.56,24,EBIO,1210,10,"Electrical Engr, Concur Degree"
+65164548,2221,General Biology 1,EBIO-1-1210-11,77.12,401591,Bobbye,Cohen,139,1/4/04,0,3.86,18,EBIO,1210,11,News - Editorial
+23304827,2221,General Chemistry 1,CHEM-1-1113-21,89.98,401591,Bobbye,Cohen,139,1/4/04,0,3.86,18,CHEM,1113,21,News - Editorial
+10304181,2221,General Chemistry 1,CHEM-1-1113-21,76.62,758870,Emmalyn,Mullen,125,3/28/02,0,2.45,20,CHEM,1113,21,Physics for Secondary Schools
+83779201,2221,General Chemistry 1,CHEM-1-1113-22,93.85,540842,Rubina,McCurlye,137,7/17/01,1,2.05,21,CHEM,1113,22,Journalism - Undetermined
+78539481,2221,General Biology 1,EBIO-1-1210-10,65.29,546841,Quyen,Wattana,97,9/16/99,1,4.0,23,EBIO,1210,10,Economics
+40987078,2221,General Biology 2,EBIO-1-1220-3,55.29,504838,Drusi,Handover,122,2/6/99,1,3.62,23,EBIO,1220,3,Aerospace Engineering Sciences
+55623374,2221,General Physics 1,PHYS-1-1110-16,88.66,792859,Elvin,Deguara,115,10/15/01,0,3.78,21,PHYS,1110,16,Electrical Engineering
+17782294,2221,General Chemistry 1,CHEM-1-1113-22,75.02,545384,Robers,Sandwich,120,5/16/00,0,3.54,22,CHEM,1113,22,Personnel-Human Resources Mgt
+65092176,2221,General Biology 1,EBIO-1-1210-10,90.64,631296,Mariele,Mouan,133,11/30/98,0,2.82,23,EBIO,1210,10,Environmental Design
+85724743,2221,General Chemistry 1,CHEM-1-1113-22,78.02,631296,Mariele,Mouan,133,11/30/98,0,2.82,23,CHEM,1113,22,Environmental Design
+62616427,2221,General Biology 1,EBIO-1-1210-10,92.78,114604,Tabor,Pfleger,134,1/24/99,1,4.0,23,EBIO,1210,10,Composition
+54240180,2221,General Physics 1,PHYS-1-1110-15,89.04,514433,Rahel,Edge,134,1/22/02,0,2.94,20,PHYS,1110,15,Business - Undetermined
+35777027,2221,General Biology 1,EBIO-1-1210-11,94.3,377983,Hildagarde,Thebeau,101,2/21/04,0,3.65,18,EBIO,1210,11,Systems
+48227457,2221,General Biology 2,EBIO-1-1220-1,86.76,738627,Shaylah,Vick,142,11/17/00,0,4.0,22,EBIO,1220,1,Integrated Design Engineering
+13328422,2221,General Biology 1,EBIO-1-1210-11,100.0,262173,Jania,Jowett,103,7/18/03,0,3.13,19,EBIO,1210,11,Architectural Engineering
+70384313,2221,General Chemistry 1,CHEM-1-1113-21,78.38,262173,Jania,Jowett,103,7/18/03,0,3.13,19,CHEM,1113,21,Architectural Engineering
+87624981,2221,General Chemistry 1,CHEM-1-1113-21,83.68,977538,Arleta,Gaddie,137,12/24/02,1,4.0,19,CHEM,1113,21,Theatre
+30830484,2221,General Biology 1,EBIO-1-1210-11,92.69,667704,Lolita,Abramow,110,7/14/00,1,3.1,22,EBIO,1210,11,Minerals Land Management
+28106123,2221,General Biology 2,EBIO-1-1220-1,90.4,801984,Raddie,Pleat,130,4/4/00,1,3.62,22,EBIO,1220,1,International Affairs
+69066523,2221,General Biology 1,EBIO-1-1210-11,71.45,311192,Bibiana,Espino,134,4/15/00,0,2.72,22,EBIO,1210,11,Journalism - Undetermined
+22333544,2221,General Chemistry 1,CHEM-1-1113-21,73.27,238606,Sholom,Kinman,102,9/15/00,0,4.0,22,CHEM,1113,21,Leadership/CommunityEngagement
+40079916,2221,General Biology 1,EBIO-1-1210-11,62.5,815185,Orin,Canton,95,1/16/01,0,3.96,21,EBIO,1210,11,Jewish Studies
+63314913,2221,General Biology 1,EBIO-1-1210-11,68.88,306649,Meaghan,Lush,95,8/14/02,1,2.77,20,EBIO,1210,11,Comm Disorders & Speech Sci
+14699682,2221,General Biology 1,EBIO-1-1210-11,92.18,708465,Jerry,Hawkwood,116,12/15/02,0,2.5,19,EBIO,1210,11,Biological Sciences-MCD
+19752229,2221,General Biology 1,EBIO-1-1210-10,85.41,776450,Dill,Clemendot,133,4/28/99,1,4.0,23,EBIO,1210,10,Design Studies
+60909345,2221,General Chemistry 1,CHEM-1-1113-21,85.43,776450,Dill,Clemendot,133,4/28/99,1,4.0,23,CHEM,1113,21,Design Studies
+13392571,2221,General Biology 1,EBIO-1-1210-11,81.66,953041,Howie,Stallard,106,3/26/99,1,2.77,23,EBIO,1210,11,Computer Science
+68145810,2221,General Biology 1,EBIO-1-1210-11,85.2,985831,Monah,Pepye,95,1/2/99,0,4.0,23,EBIO,1210,11,Design Studies
+44707743,2221,General Chemistry 1,CHEM-1-1113-22,79.36,983922,Demetria,Maier,97,1/18/98,0,2.72,24,CHEM,1113,22,Computer Science Applications
+50094255,2221,General Biology 1,EBIO-1-1210-10,89.23,155867,Germain,Southers,124,10/27/99,0,4.0,23,EBIO,1210,10,Computer Science
+96336287,2221,General Biology 1,EBIO-1-1210-11,88.29,909777,Cathlene,Buntin,133,4/2/00,0,3.52,22,EBIO,1210,11,Physics
+32521071,2221,General Biology 1,EBIO-1-1210-10,94.82,895485,Gert,Jepperson,129,3/18/99,0,2.58,23,EBIO,1210,10,Business Analytics
+87851759,2221,General Biology 2,EBIO-1-1220-1,78.52,999803,Ravid,Hewlings,114,3/12/98,0,2.79,24,EBIO,1220,1,Composition
+94694382,2221,General Biology 1,EBIO-1-1210-11,87.44,265506,Dyanne,Grestie,111,2/17/98,0,4.0,24,EBIO,1210,11,Environmental Studies
+30826352,2221,General Physics 1,PHYS-1-1110-15,71.86,265506,Dyanne,Grestie,111,2/17/98,0,4.0,24,PHYS,1110,15,Environmental Studies
+84948950,2221,General Chemistry 1,CHEM-1-1113-22,81.21,827840,Rhodia,Flores,120,2/24/98,0,4.0,24,CHEM,1113,22,Media Studies
+23819971,2221,General Physics 1,PHYS-1-1110-15,52.25,131285,Carleton,Abendroth,140,4/28/02,1,4.0,20,PHYS,1110,15,Broadcast Production
+94937972,2221,General Physics 1,PHYS-1-1110-15,85.22,150535,Lilias,Bullas,131,12/19/01,0,4.0,20,PHYS,1110,15,Latin American Studies
+39871129,2221,General Physics 1,PHYS-1-1110-16,58.56,645664,Lyell,Harsent,134,10/26/01,1,2.08,21,PHYS,1110,16,"Economics, Concurrent Degree"
